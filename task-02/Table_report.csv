@@ -1,0 +1,2502 @@
+﻿Customer Name,Region,Sum of Sales,Sum of Profit,Segment
+Aaron Bergman,Central,576.564,114.3432,Consumer
+Aaron Bergman,West,309.592,15.0033,Consumer
+Aaron Hawkins,East,330.126,147.293,Corporate
+Aaron Hawkins,South,86.45,38.038,Corporate
+Aaron Hawkins,West,1328.124,179.8842,Corporate
+Aaron Smayling,Central,1476.27,-251.2959,Corporate
+Aaron Smayling,East,65.78,32.2322,Corporate
+Aaron Smayling,South,771.614,-53.6656,Corporate
+Aaron Smayling,West,737.028,19.1547,Corporate
+Adam Bellavance,Central,240.15,115.5072,Home Office
+Adam Bellavance,East,4487.352,1468.7919,Home Office
+Adam Bellavance,South,334.2,106.5112,Home Office
+Adam Bellavance,West,2693.918,363.7782,Home Office
+Adam Hart,Central,217.44,11.934,Corporate
+Adam Hart,East,2214.047,191.5114,Corporate
+Adam Hart,South,355.08,-21.5316,Corporate
+Adam Hart,West,463.77,99.2752,Corporate
+Adam Shillingsburg,Central,1252.316,274.4242,Consumer
+Adam Shillingsburg,East,1954.374,-223.914,Consumer
+Adam Shillingsburg,South,34.65,10.395,Consumer
+Adam Shillingsburg,West,13.97,3.6322,Consumer
+Adrian Barton,Central,12181.594,5362.6135,Consumer
+Adrian Barton,East,117.96,5.898,Consumer
+Adrian Barton,South,843.84,224.4492,Consumer
+Adrian Barton,West,1330.177,-148.1552,Consumer
+Adrian Hane,Central,224.56,51.2898,Home Office
+Adrian Hane,South,201.09,58.1931,Home Office
+Adrian Hane,West,1309.864,-111.7975,Home Office
+Adrian Shami,East,54.64,20.3448,Home Office
+Adrian Shami,West,4.18,1.5048,Home Office
+Aimee Bixby,Central,169.188,12.9268,Consumer
+Aimee Bixby,East,797.522,300.7329,Consumer
+Alan Barnes,Central,37.296,-1.0656,Consumer
+Alan Barnes,East,118.32,28.923,Consumer
+Alan Barnes,South,163.96,59.4355,Consumer
+Alan Barnes,West,794.262,133.5201,Consumer
+Alan Dominguez,Central,600.558,-8.5794,Home Office
+Alan Dominguez,East,1152.982,342.6169,Home Office
+Alan Dominguez,West,4353.34,1535.8919,Home Office
+Alan Haines,Central,16.03,-25.648,Corporate
+Alan Haines,East,161.356,-3.5324,Corporate
+Alan Haines,South,1410.066,-349.3705,Corporate
+Alan Hwang,Central,195.96,19.596,Consumer
+Alan Hwang,East,801.988,233.9924,Consumer
+Alan Hwang,South,1942.996,867.5466,Consumer
+Alan Hwang,West,1864.4,187.4196,Consumer
+Alan Schoenberger,East,26.8,12.864,Corporate
+Alan Schoenberger,South,2216.8,444.6902,Corporate
+Alan Schoenberger,West,2017.184,262.2209,Corporate
+Alan Shonely,East,139.816,-22.0982,Consumer
+Alan Shonely,South,376.342,35.0436,Consumer
+Alan Shonely,West,68.45,20.7704,Consumer
+Alejandro Ballentine,Central,13.616,3.5742,Home Office
+Alejandro Ballentine,East,121.582,36.0953,Home Office
+Alejandro Ballentine,South,34.34,14.3178,Home Office
+Alejandro Ballentine,West,744.994,210.5802,Home Office
+Alejandro Grove,Central,2374.73,696.2947,Consumer
+Alejandro Grove,East,152.668,26.4552,Consumer
+Alejandro Grove,West,55.5,9.99,Consumer
+Alejandro Savely,Central,2879.872,292.1224,Corporate
+Alejandro Savely,East,23.988,-15.992,Corporate
+Alejandro Savely,West,310.376,78.4972,Corporate
+Aleksandra Gannaway,East,81.94,20.485,Corporate
+Aleksandra Gannaway,West,285.608,38.8034,Corporate
+Alex Avila,Central,4780.552,-650.5971,Consumer
+Alex Avila,East,29.5,13.2826,Consumer
+Alex Avila,West,753.508,274.432,Consumer
+Alex Grayson,Central,356.95,87.5615,Consumer
+Alex Grayson,South,12.672,1.4256,Consumer
+Alex Grayson,West,291.35,-94.1242,Consumer
+Alex Russell,Central,265.086,17.6652,Corporate
+Alex Russell,East,790.608,-238.7196,Corporate
+Alice McCarthy,Central,72.6,17.6574,Corporate
+Alice McCarthy,East,129.832,-59.909,Corporate
+Alice McCarthy,West,611.58,237.2394,Corporate
+Allen Armold,Central,178.37,62.0658,Consumer
+Allen Armold,East,206.732,68.9195,Consumer
+Allen Armold,South,598.48,127.6256,Consumer
+Allen Armold,West,72.808,18.7715,Consumer
+Allen Goldenen,East,47.151,-0.3498,Consumer
+Allen Goldenen,South,134.034,61.329,Consumer
+Allen Goldenen,West,19.76,8.2992,Consumer
+Allen Rosenblatt,Central,41.28,19.8144,Corporate
+Allen Rosenblatt,East,1689.364,-241.3974,Corporate
+Allen Rosenblatt,South,239.7,105.468,Corporate
+Allen Rosenblatt,West,265.784,17.3504,Corporate
+Alyssa Crouse,Central,162.16,-69.062,Corporate
+Alyssa Crouse,East,57.576,21.591,Corporate
+Alyssa Crouse,West,706.064,-14.6632,Corporate
+Alyssa Tate,East,16.862,-1.7024,Home Office
+Alyssa Tate,South,3.444,-2.5256,Home Office
+Alyssa Tate,West,1151.508,105.1048,Home Office
+Amy Cox,Central,1793.98,843.1706,Consumer
+Amy Cox,East,70.212,25.7148,Consumer
+Amy Cox,South,1701.358,32.3741,Consumer
+Amy Cox,West,1962.296,464.7503,Consumer
+Amy Hunt,Central,1757.8536,-352.0866,Consumer
+Amy Hunt,East,562.55,140.8633,Consumer
+Amy Hunt,South,103.9,16.8804,Consumer
+Amy Hunt,West,71.088,-1.7772,Consumer
+Andrew Allen,Central,1747.5,420.4986,Consumer
+Andrew Allen,East,27.46,9.8856,Consumer
+Andrew Allen,South,15.552,5.4432,Consumer
+Andrew Gjertsen,Central,915.459,103.5202,Corporate
+Andrew Gjertsen,East,114.376,24.6492,Corporate
+Andrew Gjertsen,South,1129.828,165.7093,Corporate
+Andrew Gjertsen,West,197.192,1.7881,Corporate
+Andrew Roberts,Central,10.8,5.184,Consumer
+Andrew Roberts,East,195.744,10.4919,Consumer
+Andrew Roberts,West,58.32,27.9936,Consumer
+Andy Gerbode,Central,559.71,-121.2705,Corporate
+Andy Gerbode,East,654.772,-80.6772,Corporate
+Andy Gerbode,South,240.556,49.1864,Corporate
+Andy Reiter,Central,5802.7,2602.0939,Consumer
+Andy Reiter,East,85.78,32.7341,Consumer
+Andy Reiter,West,719.968,249.7928,Consumer
+Andy Yotov,East,8.016,1.1022,Corporate
+Andy Yotov,West,488.998,102.2477,Corporate
+Anemone Ratner,South,88.15,32.633,Consumer
+Angele Hood,Central,15.984,4.995,Consumer
+Angele Hood,South,239.24,23.924,Consumer
+Angele Hood,West,483.28,55.044,Consumer
+Ann Blume,Central,14.48,-23.892,Corporate
+Ann Blume,South,17.088,1.068,Corporate
+Ann Blume,West,1484.294,-252.1364,Corporate
+Ann Chong,Central,12.768,0.9576,Corporate
+Ann Chong,East,2444.558,272.3477,Corporate
+Ann Chong,West,80.36,25.522,Corporate
+Ann Steele,Central,372.446,56.8968,Home Office
+Ann Steele,East,5.68,1.917,Home Office
+Ann Steele,South,49.976,18.4521,Home Office
+Ann Steele,West,405.296,59.226,Home Office
+Anna Andreadi,Central,1971.46,439.3138,Consumer
+Anna Andreadi,East,1434.33,77.6417,Consumer
+Anna Andreadi,South,291.74,79.0364,Consumer
+Anna Andreadi,West,1389.405,261.8114,Consumer
+Anna Chung,Central,179.608,-16.1928,Consumer
+Anna Chung,East,191.34,-4.9704,Consumer
+Anna Chung,West,286.368,-7.5372,Consumer
+Anna Gayman,Central,2894.3596,-369.7284,Consumer
+Anna Gayman,South,594.68,123.3027,Consumer
+Anna Häberlin,Central,1135.394,150.903,Corporate
+Anna Häberlin,East,70.88,33.3136,Corporate
+Anna Häberlin,South,5369.676,1095.3473,Corporate
+Anna Häberlin,West,1312.344,18.4527,Corporate
+Anne McFarland,Central,383.84,47.98,Consumer
+Anne McFarland,East,2116.506,472.0844,Consumer
+Anne McFarland,South,2229.212,392.7904,Consumer
+Anne McFarland,West,934.464,172.8778,Consumer
+Anne Pryor,Central,27.168,-1.3584,Home Office
+Anne Pryor,East,513.784,68.2718,Home Office
+Anne Pryor,South,79.3,-8.9614,Home Office
+Anne Pryor,West,1018.302,227.8368,Home Office
+Annie Thurman,Central,399.904,25.193,Consumer
+Annie Thurman,East,3126.156,852.2062,Consumer
+Annie Thurman,South,147.344,49.7286,Consumer
+Annie Thurman,West,158.46,46.9792,Consumer
+Annie Zypern,Central,146.72,22.848,Consumer
+Annie Zypern,East,403.416,75.0965,Consumer
+Annie Zypern,West,1071.882,57.0058,Consumer
+Anthony Garverick,Central,51.592,-60.8566,Home Office
+Anthony Garverick,East,5.892,-4.1244,Home Office
+Anthony Garverick,South,113.1,56.55,Home Office
+Anthony Jacobs,East,4486.444,16.8685,Corporate
+Anthony Jacobs,South,62.264,16.9543,Corporate
+Anthony Jacobs,West,318.636,116.8902,Corporate
+Anthony Johnson,East,4.992,1.6848,Corporate
+Anthony Johnson,South,1725.844,384.469,Corporate
+Anthony Johnson,West,2770.555,772.5526,Corporate
+Anthony O'Donnell,West,161.28,12.096,Corporate
+Anthony Rawles,Central,347.802,-24.843,Corporate
+Anthony Rawles,East,765.076,-9.241,Corporate
+Anthony Rawles,West,3410.458,528.9192,Corporate
+Anthony Witt,Central,30.264,-13.8837,Consumer
+Anthony Witt,East,321.248,26.9448,Consumer
+Anthony Witt,West,297.864,52.7114,Consumer
+Arianne Irving,East,70.366,-5.8916,Consumer
+Arianne Irving,South,504.9,80.784,Consumer
+Arianne Irving,West,3800.52,792.8347,Consumer
+Art Ferguson,Central,345.656,-98.2841,Consumer
+Art Ferguson,East,1562.086,356.8186,Consumer
+Art Ferguson,South,47.328,14.872,Consumer
+Art Ferguson,West,97.838,44.5647,Consumer
+Art Foster,East,489.905,-264.3029,Consumer
+Art Foster,South,371.66,101.1854,Consumer
+Arthur Gainer,Central,1372.166,94.3674,Consumer
+Arthur Gainer,East,259.942,45.6003,Consumer
+Arthur Gainer,South,496.51,33.7185,Consumer
+Arthur Gainer,West,2382.179,169.9962,Consumer
+Arthur Prichep,South,952.908,199.9944,Consumer
+Arthur Prichep,West,2370.648,379.3169,Consumer
+Arthur Wiediger,Central,1748.02,-250.2484,Home Office
+Arthur Wiediger,East,4.928,1.7248,Home Office
+Arthur Wiediger,West,1100.02,143.975,Home Office
+Ashley Jarboe,Central,1715.16,489.9664,Consumer
+Ashley Jarboe,South,19.456,3.4048,Consumer
+Ashley Jarboe,West,104.624,27.764,Consumer
+Astrea Jones,East,618.608,57.6601,Consumer
+Astrea Jones,West,10.64,2.7664,Consumer
+Barbara Fisher,Central,328.54,157.3777,Corporate
+Barbara Fisher,East,49.724,14.3503,Corporate
+Barbara Fisher,South,221.534,55.7104,Corporate
+Barry Blumstein,Central,374.076,-8.216,Corporate
+Barry Blumstein,East,17.48,1.311,Corporate
+Barry Blumstein,West,352.784,18.4889,Corporate
+Barry Franz,Central,327.42,-388.28,Home Office
+Barry Franz,West,1006.46,96.8989,Home Office
+Barry Französisch,Central,1026.57,-11.5865,Corporate
+Barry Französisch,East,1035.8,269.308,Corporate
+Barry Französisch,South,269.4,-20.9436,Corporate
+Barry Französisch,West,556.736,65.2421,Corporate
+Barry Gonzalez,Central,244.472,-15.2392,Consumer
+Barry Gonzalez,South,2554.476,-696.1882,Consumer
+Barry Pond,Central,24.04,-0.378,Corporate
+Barry Pond,East,926.08,197.096,Corporate
+Barry Pond,West,33.3,13.065,Corporate
+Barry Weirich,East,339.364,-70.4015,Consumer
+Barry Weirich,South,46.152,12.1149,Consumer
+Bart Folk,East,258.28,106.9663,Consumer
+Bart Folk,South,14.67,3.9609,Consumer
+Bart Pistole,Central,108.438,-31.3596,Corporate
+Bart Pistole,East,1153.906,265.0332,Corporate
+Bart Pistole,South,104.338,19.1318,Corporate
+Bart Pistole,West,1075.362,181.1697,Corporate
+Bart Watters,Central,3163.534,672.5592,Corporate
+Bart Watters,East,342.49,129.378,Corporate
+Bart Watters,South,39.252,-9.7101,Corporate
+Bart Watters,West,1205.082,129.0303,Corporate
+Becky Castell,Central,340.116,-9.7176,Home Office
+Becky Castell,East,669.378,137.1876,Home Office
+Becky Castell,West,1924.182,124.1274,Home Office
+Becky Martin,Central,10539.896,-1878.7892,Consumer
+Becky Martin,East,611.028,90.6378,Consumer
+Becky Martin,West,638.706,128.1933,Consumer
+Becky Pak,East,530.695,194.0583,Consumer
+Becky Pak,South,18.84,7.9128,Consumer
+Becky Pak,West,1148.326,445.4136,Consumer
+Ben Ferrer,Central,260.992,12.1052,Home Office
+Ben Ferrer,East,1851.232,435.9575,Home Office
+Ben Ferrer,South,1803.934,819.3965,Home Office
+Ben Ferrer,West,1991.814,270.7535,Home Office
+Ben Peterman,Central,1344.813,52.0985,Corporate
+Ben Peterman,East,1241.812,134.345,Corporate
+Ben Peterman,South,6.992,0.5244,Corporate
+Ben Peterman,West,1082.244,176.6312,Corporate
+Ben Wallace,Central,12.176,-18.8728,Consumer
+Ben Wallace,East,511.522,98.0073,Consumer
+Ben Wallace,South,306.532,81.098,Consumer
+Ben Wallace,West,908.176,86.7648,Consumer
+Benjamin Farhat,Central,748.556,178.7966,Home Office
+Benjamin Farhat,East,56.52,21.4776,Home Office
+Benjamin Farhat,West,780.086,322.9391,Home Office
+Benjamin Patterson,Central,12.86,6.0452,Consumer
+Benjamin Patterson,East,1022.97,-255.7425,Consumer
+Benjamin Patterson,West,145.66,52.4278,Consumer
+Benjamin Venier,Central,340.22,105.9391,Corporate
+Benjamin Venier,East,405.3,110.9779,Corporate
+Benjamin Venier,South,744.353,82.2724,Corporate
+Benjamin Venier,West,33.4,16.032,Corporate
+Berenike Kampe,Central,314.55,-180.1676,Consumer
+Berenike Kampe,East,163.62,51.1464,Consumer
+Berenike Kampe,West,180.968,65.2568,Consumer
+Beth Fritzler,South,403.286,37.9998,Corporate
+Beth Fritzler,West,388.704,-12.1296,Corporate
+Beth Paige,Central,510.286,-110.8121,Consumer
+Beth Paige,East,508.023,-190.3206,Consumer
+Beth Paige,South,370.184,2.0358,Consumer
+Beth Paige,West,1086.664,-19.9668,Consumer
+Beth Thompson,Central,17.12,4.9648,Home Office
+Beth Thompson,West,2550.536,412.627,Home Office
+Bill Donatelli,Central,2924.55,901.6755,Consumer
+Bill Donatelli,East,562.495,17.266,Consumer
+Bill Donatelli,West,2231.476,175.5622,Consumer
+Bill Eplett,Central,3501.896,1241.4347,Home Office
+Bill Eplett,East,490.94,170.0768,Home Office
+Bill Eplett,West,211.84,76.2624,Home Office
+Bill Overfelt,Central,1655.13,378.957,Corporate
+Bill Overfelt,East,504.506,-164.4722,Corporate
+Bill Overfelt,West,523.092,64.2922,Corporate
+Bill Shonely,Central,64.59,24.2049,Corporate
+Bill Shonely,East,10022.293,2558.5802,Corporate
+Bill Shonely,South,344.91,10.3473,Corporate
+Bill Shonely,West,69.86,22.932,Corporate
+Bill Stewart,Central,12.624,3.945,Corporate
+Bill Stewart,East,1716.646,285.2692,Corporate
+Bill Stewart,West,2158.564,-306.7464,Corporate
+Bill Tyler,Central,1384.81,205.9367,Corporate
+Bill Tyler,East,20.451,-1.1835,Corporate
+Bill Tyler,West,781.352,53.1631,Corporate
+Bobby Elias,Central,1918.326,635.0619,Consumer
+Bobby Elias,East,30.352,10.6232,Consumer
+Bobby Elias,South,251.64,88.074,Consumer
+Bobby Elias,West,61.12,22.156,Consumer
+Bobby Odegard,East,6.08,2.0672,Consumer
+Bobby Odegard,South,124.75,57.385,Consumer
+Bobby Trafton,Central,91.534,33.6506,Consumer
+Bobby Trafton,East,440.048,-12.3744,Consumer
+Bobby Trafton,West,72.294,-98.8018,Consumer
+Brad Eason,Central,188.32,54.9304,Home Office
+Brad Eason,East,1539.332,84.2704,Home Office
+Brad Norvell,Central,49.616,4.9616,Corporate
+Brad Norvell,East,12.576,4.0872,Corporate
+Brad Norvell,South,192.424,24.6807,Corporate
+Brad Norvell,West,10.68,2.8836,Corporate
+Brad Thomas,East,415.196,126.8694,Home Office
+Bradley Drucker,Central,813.174,309.0769,Consumer
+Bradley Drucker,South,3228.09,859.8218,Consumer
+Bradley Drucker,West,369.979,-26.7762,Consumer
+Bradley Nguyen,Central,249.92,108.1918,Consumer
+Bradley Nguyen,East,936.124,151.839,Consumer
+Bradley Nguyen,West,273.3,80.6746,Consumer
+Bradley Talbott,East,381.952,51.8915,Home Office
+Bradley Talbott,West,2302.54,357.6068,Home Office
+Brenda Bowman,Central,1971.91,332.9673,Corporate
+Brenda Bowman,East,2256.75,471.378,Corporate
+Brenda Bowman,South,1158.12,130.2885,Corporate
+Brenda Bowman,West,1378.948,80.4412,Corporate
+Brendan Dodson,South,151.96,36.4704,Home Office
+Brendan Dodson,West,168.58,80.2436,Home Office
+Brendan Murry,Central,219.636,-55.0725,Corporate
+Brendan Murry,East,545.136,142.8734,Corporate
+Brendan Murry,West,43.39,7.7807,Corporate
+Brendan Sweed,Central,33.4,12.358,Corporate
+Brendan Sweed,East,438.576,26.6619,Corporate
+Brendan Sweed,South,701.96,168.4704,Corporate
+Brendan Sweed,West,1280.992,174.2904,Corporate
+Brian Dahlen,East,192.986,10.434,Consumer
+Brian Dahlen,South,910.454,281.4785,Consumer
+Brian Dahlen,West,2185.031,342.9338,Consumer
+Brian DeCherney,Central,582.07,78.0919,Consumer
+Brian DeCherney,East,148.128,-14.932,Consumer
+Brian DeCherney,South,310.688,108.7408,Consumer
+Brian DeCherney,West,497.224,34.8562,Consumer
+Brian Derr,East,511.646,113.844,Consumer
+Brian Derr,South,71,27.69,Consumer
+Brian Moss,Central,3249.753,1012.1517,Corporate
+Brian Moss,East,3524.449,1135.1148,Corporate
+Brian Moss,West,519.983,52.0116,Corporate
+Brian Stugart,Central,1328.128,62.2692,Consumer
+Brian Stugart,East,86.376,1.0797,Consumer
+Brian Stugart,West,1873.606,175.3879,Consumer
+Brian Thompson,Central,1002.29,-199.211,Consumer
+Brian Thompson,East,1283.396,494.0936,Consumer
+Brian Thompson,South,19.104,5.7312,Consumer
+Brian Thompson,West,891.962,147.1346,Consumer
+Brooke Gillingham,Central,878.778,-4.0888,Corporate
+Brooke Gillingham,East,966.066,107.9943,Corporate
+Brooke Gillingham,West,29.328,3.666,Corporate
+Brosina Hoffman,Central,830.038,-57.1373,Consumer
+Brosina Hoffman,East,1130.298,428.0279,Consumer
+Brosina Hoffman,South,580.711,131.1305,Consumer
+Brosina Hoffman,West,3714.304,300.7687,Consumer
+Bruce Degenhardt,East,46.72,17.52,Consumer
+Bruce Degenhardt,South,1294.83,276.0275,Consumer
+Bruce Degenhardt,West,184.95,40.4316,Consumer
+Bruce Geld,Central,10.784,0.8088,Consumer
+Bruce Geld,East,60.312,5.2773,Consumer
+Bruce Geld,South,9.912,3.2214,Consumer
+Bruce Geld,West,925.348,110.0404,Consumer
+Bruce Stewart,Central,933.95,82.9499,Consumer
+Bruce Stewart,East,1011.572,-140.589,Consumer
+Bruce Stewart,West,616.86,-55.6593,Consumer
+Bryan Davis,Central,86.352,5.397,Consumer
+Bryan Davis,East,428.874,73.9058,Consumer
+Bryan Davis,West,143.24,61.9622,Consumer
+Bryan Mills,Central,895.888,147.6818,Consumer
+Bryan Mills,East,175.466,-34.2628,Consumer
+Bryan Mills,South,209.384,20.8968,Consumer
+Bryan Mills,West,58.104,3.4281,Consumer
+Bryan Spruell,East,760.8,116.9461,Home Office
+Bryan Spruell,West,188.63,77.1055,Home Office
+Candace McMahon,Central,70.304,25.226,Corporate
+Candace McMahon,West,1603.584,189.237,Corporate
+Cari Sayre,Central,18.42,-27.63,Corporate
+Cari Sayre,West,1260.534,213.0076,Corporate
+Cari Schnelling,Central,1.72,-2.838,Consumer
+Cari Schnelling,East,30.584,9.4813,Consumer
+Cari Schnelling,South,505.328,99.1842,Consumer
+Carl Jackson,East,16.52,1.652,Corporate
+Carl Ludwig,Central,123.552,-29.3436,Consumer
+Carl Ludwig,East,1121.722,353.0759,Consumer
+Carl Ludwig,West,16.74,4.3524,Consumer
+Carl Weiss,Central,142.344,17.154,Home Office
+Carl Weiss,East,899.82,310.1022,Home Office
+Carl Weiss,West,94.428,43.5736,Home Office
+Carlos Daly,Central,152.52,46.9392,Consumer
+Carlos Daly,East,1584.568,355.756,Consumer
+Carlos Daly,West,296.88,23.9658,Consumer
+Carlos Meador,South,530.272,-56.9024,Consumer
+Carlos Meador,West,35.12,13.17,Consumer
+Carlos Soltero,Central,87.312,-11.9744,Consumer
+Carlos Soltero,East,1316.653,-272.1951,Consumer
+Carlos Soltero,South,11.68,5.256,Consumer
+Carlos Soltero,West,1620.902,152.4912,Consumer
+Carol Adams,Central,850.4608,137.7012,Corporate
+Carol Adams,East,2024.408,908.8444,Corporate
+Carol Adams,South,22.63,7.6137,Corporate
+Carol Adams,West,892.224,89.2224,Corporate
+Carol Darley,Central,296.022,-364.3734,Consumer
+Carol Darley,East,318.96,149.9112,Consumer
+Carol Darley,West,24.784,7.745,Consumer
+Carol Triggs,Central,746.35,-110.5579,Consumer
+Carol Triggs,East,1586.332,100.318,Consumer
+Carol Triggs,West,909.216,171.4662,Consumer
+Caroline Jumper,Central,1875.128,-98.0704,Consumer
+Caroline Jumper,East,5441.576,1382.961,Consumer
+Caroline Jumper,South,3740.51,-457.7308,Consumer
+Caroline Jumper,West,107.76,31.5816,Consumer
+Cassandra Brandow,Central,2903.213,-556.9837,Consumer
+Cassandra Brandow,East,408.614,180.7006,Consumer
+Cassandra Brandow,South,307.82,44.362,Consumer
+Cassandra Brandow,West,2456.492,482.13,Consumer
+Catherine Glotzbach,Central,18.24,8.5728,Home Office
+Catherine Glotzbach,East,566.932,45.7322,Home Office
+Catherine Glotzbach,South,307.536,26.4432,Home Office
+Catherine Glotzbach,West,11.76,5.7624,Home Office
+Cathy Armstrong,Central,348.556,16.945,Home Office
+Cathy Armstrong,East,314.984,39.5337,Home Office
+Cathy Armstrong,West,1016.184,154.7772,Home Office
+Cathy Hwang,Central,299.9,74.975,Home Office
+Cathy Hwang,East,109.36,-6.7212,Home Office
+Cathy Hwang,South,1127.976,126.8973,Home Office
+Cathy Prescott,Central,4697.37,221.6294,Corporate
+Cathy Prescott,East,187.208,77.1246,Corporate
+Cathy Prescott,South,232.624,25.8328,Corporate
+Cathy Prescott,West,285.052,102.439,Corporate
+Chad Cunningham,Central,287.38,57.7154,Home Office
+Chad Cunningham,East,170.265,6.3712,Home Office
+Chad Cunningham,West,1313.3,144.5046,Home Office
+Chad McGuire,East,800.04,228.345,Consumer
+Chad McGuire,West,861.57,180.7229,Consumer
+Chad Sievert,Central,88.8,-2.22,Consumer
+Chad Sievert,West,795.84,146.0539,Consumer
+Charles Crestani,Central,89.82,11.0484,Consumer
+Charles Crestani,West,2381.83,381.2341,Consumer
+Charles McCrossin,Central,1.744,-0.3488,Consumer
+Charles McCrossin,East,528.05,-68.4478,Consumer
+Charles McCrossin,West,2003.52,-325.572,Consumer
+Charles Sheldon,Central,9.99,4.4955,Corporate
+Charles Sheldon,East,196.21,98.105,Corporate
+Charles Sheldon,South,87.22,7.906,Corporate
+Charles Sheldon,West,551.038,2.634,Corporate
+Charlotte Melton,Central,822.052,68.3188,Consumer
+Charlotte Melton,East,131.292,10.1121,Consumer
+Charlotte Melton,West,521.8,12.7724,Consumer
+Chloris Kastensmidt,Central,441.256,-28.3211,Consumer
+Chloris Kastensmidt,East,1133.951,-71.6486,Consumer
+Chloris Kastensmidt,South,193.152,34.6984,Consumer
+Chloris Kastensmidt,West,1386.496,206.5544,Consumer
+Chris Cortes,Central,1085.052,-48.9357,Consumer
+Chris Cortes,East,1931.176,236.9031,Consumer
+Chris Cortes,South,78.08,36.5648,Consumer
+Chris Cortes,West,819.11,169.4296,Consumer
+Chris McAfee,Central,1426.884,63.8127,Consumer
+Chris McAfee,East,698.5,229.7008,Consumer
+Chris McAfee,South,140.52,67.5444,Consumer
+Chris McAfee,West,39.808,3.9808,Consumer
+Chris Selesnick,Central,108.496,48.9456,Corporate
+Chris Selesnick,East,64.96,9.744,Corporate
+Chris Selesnick,South,1829.6,437.4074,Corporate
+Chris Selesnick,West,751.16,242.2656,Corporate
+Christina Anderson,Central,339.1612,-110.054,Consumer
+Christina Anderson,East,401.94,118.3554,Consumer
+Christina Anderson,South,356.226,6.5689,Consumer
+Christina Anderson,West,1550.96,264.748,Consumer
+Christina DeMoss,East,796.036,118.909,Consumer
+Christina DeMoss,West,409.548,114.1184,Consumer
+Christina VanderZanden,Central,1614.236,252.2686,Consumer
+Christina VanderZanden,East,147.26,51.9779,Consumer
+Christina VanderZanden,West,1069.132,188.8396,Consumer
+Christine Abelman,Central,376.64,2.098,Corporate
+Christine Abelman,East,550.014,115.1458,Corporate
+Christine Abelman,West,495.3,128.778,Corporate
+Christine Kargatis,East,1448.853,-127.2337,Home Office
+Christine Kargatis,South,1355.76,344.0648,Home Office
+Christine Kargatis,West,140.708,44.3898,Home Office
+Christine Phan,East,4164.988,-812.8664,Corporate
+Christine Phan,South,1475.199,-1065.7493,Corporate
+Christine Phan,West,248.088,28.3128,Corporate
+Christine Sundaresam,East,877.092,169.2352,Consumer
+Christine Sundaresam,South,1910.98,617.8952,Consumer
+Christine Sundaresam,West,414.09,44.8128,Consumer
+Christopher Conant,Central,1.248,-1.9344,Consumer
+Christopher Conant,East,8765.66,1190.5972,Consumer
+Christopher Conant,South,225.296,22.5296,Consumer
+Christopher Conant,West,3136.868,965.8569,Consumer
+Christopher Martinez,Central,240.368,16.8148,Consumer
+Christopher Martinez,South,6682.26,3197.458,Consumer
+Christopher Martinez,West,2031.392,685.6176,Consumer
+Christopher Schild,Central,258.756,-35.3959,Home Office
+Christopher Schild,East,743.988,-123.998,Home Office
+Christopher Schild,South,1735.8505,-361.5705,Home Office
+Christopher Schild,West,913.264,178.1611,Home Office
+Christy Brittain,Central,117.54,-67.5405,Consumer
+Christy Brittain,East,1771.67,318.3324,Consumer
+Christy Brittain,West,59.99,21.5964,Consumer
+Chuck Clark,Central,249.58,72.2598,Home Office
+Chuck Clark,East,1675.89,375.6329,Home Office
+Chuck Clark,West,944.58,-23.2344,Home Office
+Chuck Magee,Central,132.95,9.2561,Consumer
+Chuck Magee,West,155.04,55.1735,Consumer
+Chuck Sachs,East,238.684,72.9897,Consumer
+Chuck Sachs,South,311.96,83.2696,Consumer
+Cindy Chapman,Central,587.978,-47.0166,Consumer
+Cindy Chapman,East,318.1,116.1948,Consumer
+Cindy Chapman,West,753.36,85.6728,Consumer
+Cindy Schnelling,Central,111.672,6.9795,Corporate
+Cindy Schnelling,East,403.264,-54.2681,Corporate
+Cindy Schnelling,South,562.2925,-255.5875,Corporate
+Cindy Stewart,East,5016.549,-6892.3748,Consumer
+Cindy Stewart,South,448.136,195.9453,Consumer
+Cindy Stewart,West,225.37,70.04,Consumer
+Claire Gute,Central,154.88,-91.5612,Consumer
+Claire Gute,South,993.9,261.4956,Consumer
+Claudia Bergmann,East,1925.582,550.2424,Corporate
+Claudia Bergmann,South,853.266,341.5154,Corporate
+Claudia Bergmann,West,1467.6075,157.8023,Corporate
+Clay Cheatham,Central,10.368,3.6288,Consumer
+Clay Cheatham,West,103.464,30.2418,Consumer
+Clay Ludtke,Central,1909.08,559.8408,Consumer
+Clay Ludtke,East,2546.922,465.8557,Consumer
+Clay Ludtke,South,354.9,17.745,Consumer
+Clay Ludtke,West,6069.644,890.3416,Consumer
+Clay Rozendal,Central,240.04,-45.6933,Home Office
+Clay Rozendal,East,10.528,3.6848,Home Office
+Clay Rozendal,West,1898.284,116.4098,Home Office
+Clytie Kelty,Central,12.128,-20.6176,Consumer
+Clytie Kelty,East,899.182,4.6858,Consumer
+Clytie Kelty,South,1383.91,485.1869,Consumer
+Clytie Kelty,West,77.53,28.4547,Consumer
+Corey Catlett,Central,61.792,6.1792,Corporate
+Corey Catlett,East,267.349,32.4848,Corporate
+Corey Catlett,South,1983.832,473.0325,Corporate
+Corey Catlett,West,227.658,-180.2625,Corporate
+Corey Roper,Central,19.44,9.5256,Home Office
+Corey Roper,East,334.68,104.7888,Home Office
+Corey Roper,South,121.78,30.445,Home Office
+Corey-Lock,Central,538.388,140.647,Consumer
+Corey-Lock,East,5.04,1.764,Consumer
+Corey-Lock,South,191.88,19.188,Consumer
+Corey-Lock,West,564.768,44.0292,Consumer
+Corinna Mitchell,Central,449.0496,-43.8962,Home Office
+Corinna Mitchell,East,3999.79,1366.8625,Home Office
+Corinna Mitchell,South,23.34,0.2334,Home Office
+Corinna Mitchell,West,1867.378,249.2588,Home Office
+Craig Carreira,Central,139.638,29.8578,Consumer
+Craig Carreira,East,259.44,19.7043,Consumer
+Craig Carreira,South,619.848,11.2614,Consumer
+Craig Carreira,West,1250.7755,127.0164,Consumer
+Craig Carroll,Central,546.792,172.1543,Consumer
+Craig Carroll,East,1884.144,592.242,Consumer
+Craig Carroll,South,423.179,85.7628,Consumer
+Craig Leslie,Central,8.76,4.2048,Home Office
+Craig Leslie,East,449.91,157.4685,Home Office
+Craig Leslie,South,18,3.24,Home Office
+Craig Leslie,West,1876.916,64.0966,Home Office
+Craig Molinari,Central,2772.1004,87.5076,Corporate
+Craig Molinari,East,68.53,3.2926,Corporate
+Craig Molinari,West,1143.822,85.5106,Corporate
+Craig Reiter,Central,444.492,2.3614,Consumer
+Craig Reiter,East,1156.058,304.5562,Consumer
+Craig Yedwab,Central,729.072,-295.2482,Corporate
+Craig Yedwab,East,895.944,190.3881,Corporate
+Craig Yedwab,South,554.32,99.4016,Corporate
+Craig Yedwab,West,720.69,66.1052,Corporate
+Cyma Kinney,Central,719.095,-473.2698,Corporate
+Cyma Kinney,East,429.55,136.7938,Corporate
+Cyma Kinney,South,132.432,-32.2659,Corporate
+Cyma Kinney,West,301.032,30.3108,Corporate
+Cynthia Arntzen,Central,822.48,237.7082,Consumer
+Cynthia Arntzen,East,1793.121,164.4848,Consumer
+Cynthia Arntzen,South,32.8,6.7423,Consumer
+Cynthia Arntzen,West,393.165,-204.4458,Consumer
+Cynthia Delaney,Central,1058.27,339.7367,Home Office
+Cynthia Delaney,East,73.33,21.4053,Home Office
+Cynthia Delaney,West,729.132,42.7002,Home Office
+Cynthia Voltz,Central,1321.0776,-50.6836,Corporate
+Cynthia Voltz,East,728.222,72.2001,Corporate
+Cynthia Voltz,West,321.014,77.481,Corporate
+Cyra Reiten,Central,702.8424,-52.0626,Home Office
+Cyra Reiten,East,681.91,133.2009,Home Office
+Cyra Reiten,South,13.12,2.132,Home Office
+Damala Kotsonis,Central,1162.772,239.5842,Corporate
+Damala Kotsonis,East,167.506,23.5122,Corporate
+Damala Kotsonis,South,407.03,121.2049,Corporate
+Damala Kotsonis,West,1519.172,496.8215,Corporate
+Dan Campbell,Central,563.072,-81.5748,Consumer
+Dan Campbell,East,325.586,-238.0694,Consumer
+Dan Campbell,South,2447.51,-1121.9871,Consumer
+Dan Lawera,Central,6,2.1,Consumer
+Dan Lawera,East,223.29,62.2797,Consumer
+Dan Lawera,South,214.734,7.1235,Consumer
+Dan Lawera,West,1059.088,250.7417,Consumer
+Dan Reichenbach,Central,796.324,32.6808,Corporate
+Dan Reichenbach,East,2069.326,666.6433,Corporate
+Dan Reichenbach,South,287.424,-8.9958,Corporate
+Dan Reichenbach,West,3374.96,951.533,Corporate
+Dana Kaydos,Central,2660.624,609.5947,Consumer
+Dana Kaydos,South,564.384,56.8304,Consumer
+Dana Kaydos,West,1057.168,271.2245,Consumer
+Daniel Byrd,Central,15.008,-12.0064,Home Office
+Daniel Byrd,South,980.658,271.9464,Home Office
+Daniel Byrd,West,1175.933,171.4348,Home Office
+Daniel Lacy,Central,1034.05,276.0588,Consumer
+Daniel Lacy,East,733.56,246.954,Consumer
+Daniel Lacy,South,1299.99,-571.9956,Consumer
+Daniel Lacy,West,204.6,53.196,Consumer
+Daniel Raglin,Central,621.592,-415.9112,Home Office
+Daniel Raglin,East,6937.87,3050.3344,Home Office
+Daniel Raglin,South,489.03,211.9746,Home Office
+Daniel Raglin,West,302.376,22.6782,Home Office
+Dario Medina,Central,321.026,37.7127,Corporate
+Dario Medina,East,795.408,59.6556,Corporate
+Dario Medina,South,81.568,7.1372,Corporate
+Dario Medina,West,124.032,4.2528,Corporate
+Darren Budd,Central,203.1212,17.785,Corporate
+Darren Budd,East,1433.586,84.294,Corporate
+Darren Budd,West,1202.52,110.9239,Corporate
+Darren Koutras,Central,646.2,-8.0775,Consumer
+Darren Koutras,South,740.18,77.8437,Consumer
+Darren Koutras,West,300.66,-177.12,Consumer
+Darren Powers,Central,533.638,86.2111,Consumer
+Darren Powers,East,125.624,-26.9636,Consumer
+Darren Powers,South,7.764,-5.176,Consumer
+Darren Powers,West,383.61,187.3809,Consumer
+Darrin Martin,Central,858.916,52.7593,Consumer
+Darrin Martin,East,4952.105,1660.2842,Consumer
+Darrin Martin,South,228.586,-45.4718,Consumer
+Darrin Martin,West,305.496,9.8214,Consumer
+Darrin Sayre,East,400.61,51.6661,Home Office
+Darrin Sayre,West,1361.603,141.6658,Home Office
+Darrin Van Huff,East,188.552,-2.6936,Corporate
+Darrin Van Huff,South,893.331,-441.9734,Corporate
+Darrin Van Huff,West,37.6,17.483,Corporate
+Dave Brooks,Central,781.152,-279.4041,Consumer
+Dave Brooks,East,2040.99,565.4285,Consumer
+Dave Brooks,South,871.8,87.18,Consumer
+Dave Brooks,West,837.704,99.8228,Consumer
+Dave Hallsten,Central,8.712,-19.602,Corporate
+Dave Hallsten,East,1445.674,456.5333,Corporate
+Dave Hallsten,South,1841.79,669.4113,Corporate
+Dave Hallsten,West,1636.696,87.3978,Corporate
+Dave Kipp,Central,152.754,47.334,Consumer
+Dave Kipp,East,648.691,-1.5866,Consumer
+Dave Kipp,South,1061.582,325.2648,Consumer
+Dave Kipp,West,787.53,165.3813,Consumer
+Dave Poirier,Central,32.56,8.4656,Corporate
+Dave Poirier,East,1729.112,500.6314,Corporate
+Dave Poirier,West,453.33,54.0791,Corporate
+David Bremer,Central,760.98,-1141.47,Corporate
+David Bremer,East,1736.172,-377.6814,Corporate
+David Bremer,South,277.632,29.748,Corporate
+David Bremer,West,198.31,67.6342,Corporate
+David Flashing,Central,2067.796,-397.1276,Consumer
+David Flashing,East,212.64,99.9408,Consumer
+David Flashing,West,110.098,37.8771,Consumer
+David Kendrick,Central,433.56,78.5007,Corporate
+David Kendrick,East,364.272,171.444,Corporate
+David Philippe,Central,8.016,1.002,Consumer
+David Philippe,East,1050.6,-41.9396,Consumer
+David Smith,Central,1005.4428,115.2968,Corporate
+David Smith,East,900.068,-51.0439,Corporate
+David Smith,South,92.7,35.8254,Corporate
+David Smith,West,883.602,63.621,Corporate
+David Wiener,Central,448.418,-34.0652,Corporate
+David Wiener,South,4.368,0.3822,Corporate
+David Wiener,West,627.965,-53.1908,Corporate
+Dean Braden,Central,435.832,57.4183,Consumer
+Dean Braden,East,1547.891,110.3935,Consumer
+Dean Braden,South,226.502,-11.6085,Consumer
+Dean Braden,West,122.352,13.7646,Consumer
+Dean Katz,Central,270.356,-3.148,Corporate
+Dean Katz,East,1589.956,-242.9915,Corporate
+Dean Katz,West,2942.082,456.0389,Corporate
+Dean percer,Central,146.89,53.8191,Home Office
+Dean percer,East,3122.262,1201.3082,Home Office
+Dean percer,South,3464.882,-1016.6618,Home Office
+Dean percer,West,464.727,94.8993,Home Office
+Deanra Eno,Central,1423.34,401.126,Home Office
+Deanra Eno,East,98.364,17.1741,Home Office
+Deanra Eno,West,1029.17,46.1713,Home Office
+Deborah Brumfield,Central,468.255,-101.8053,Home Office
+Deborah Brumfield,East,2845.072,792.8521,Home Office
+Deborah Brumfield,West,1342.57,150.7796,Home Office
+Debra Catini,Central,144.36,54.7968,Consumer
+Debra Catini,South,722.592,91.7498,Consumer
+Debra Catini,West,307.666,-14.4784,Consumer
+Deirdre Greer,East,2594.042,582.5617,Corporate
+Deirdre Greer,West,601.776,-19.7856,Corporate
+Delfina Latchford,Central,63.16,-5.962,Consumer
+Delfina Latchford,East,1176.244,231.0621,Consumer
+Delfina Latchford,South,179.974,45.1107,Consumer
+Delfina Latchford,West,38.88,18.6624,Consumer
+Denise Leinenbach,Central,508.11,197.9888,Consumer
+Denise Leinenbach,East,12.42,5.2164,Consumer
+Denise Leinenbach,South,23.12,2.1006,Consumer
+Denise Leinenbach,West,41.37,17.3754,Consumer
+Denise Monton,Central,445.4,129.1592,Corporate
+Denise Monton,East,630.366,-185.4003,Corporate
+Denise Monton,South,2755.122,1281.3999,Corporate
+Denise Monton,West,243.584,93.8998,Corporate
+Dennis Bolton,East,863.842,191.9233,Home Office
+Dennis Bolton,West,217.624,99.0852,Home Office
+Dennis Kane,Central,1138.792,193.8081,Consumer
+Dennis Kane,East,1192.996,-54.2969,Consumer
+Dennis Kane,West,986.698,237.5687,Consumer
+Dennis Pardue,Central,470.412,-222.1184,Home Office
+Dennis Pardue,East,16.656,3.3312,Home Office
+Dennis Pardue,South,51.98,0.9284,Home Office
+Dennis Pardue,West,4941.676,1789.6906,Home Office
+Denny Blanton,Central,526.45,31.587,Consumer
+Denny Blanton,East,1098.074,396.4262,Consumer
+Denny Blanton,South,87.168,10.896,Consumer
+Denny Joy,Central,1454.9,378.274,Corporate
+Denny Joy,South,392.94,43.2234,Corporate
+Denny Joy,West,164.68,61.5376,Corporate
+Denny Ordway,East,570.842,27.6106,Consumer
+Denny Ordway,South,459.4335,-158.0592,Consumer
+Denny Ordway,West,269.756,91.54,Consumer
+Dianna Arnett,Central,16.608,4.1748,Home Office
+Dianna Arnett,East,130.512,47.892,Home Office
+Dianna Arnett,South,9.64,4.7236,Home Office
+Dianna Vittorini,Central,663.75,9.7164,Consumer
+Dianna Vittorini,East,1257.82,101.8962,Consumer
+Dianna Vittorini,West,1420.017,241.6001,Consumer
+Dianna Wilson,Central,3760.41,1158.6641,Home Office
+Dianna Wilson,South,598.31,162.9957,Home Office
+Dianna Wilson,West,912.908,27.0958,Home Office
+Dionis Lloyd,Central,255.58,50.3498,Corporate
+Dionis Lloyd,East,1864.592,-309.474,Corporate
+Dionis Lloyd,South,316,31.6,Corporate
+Dionis Lloyd,West,1103.15,174.7362,Corporate
+Don Jones,East,239.898,30.8166,Corporate
+Don Jones,South,500.782,188.7399,Corporate
+Don Jones,West,1761.008,125.6956,Corporate
+Don Miller,Central,52.096,18.1656,Corporate
+Don Miller,East,1082.15,167.111,Corporate
+Don Miller,South,242.546,14.4922,Corporate
+Don Weiss,Central,84.608,-0.3952,Consumer
+Don Weiss,East,88.04,22.8904,Consumer
+Don Weiss,South,13.152,2.7724,Consumer
+Don Weiss,West,158.28,44.3996,Consumer
+Dorothy Badders,Central,1407.2048,-195.9448,Corporate
+Dorothy Badders,East,636.576,179.4123,Corporate
+Dorothy Badders,South,1865.022,125.8595,Corporate
+Dorothy Dickinson,Central,92.43,-6.7298,Consumer
+Dorothy Dickinson,East,3.304,1.0738,Consumer
+Dorothy Dickinson,South,64.188,3.7262,Consumer
+Dorothy Dickinson,West,109.62,38.3642,Consumer
+Dorothy Wardle,East,788.152,-333.9138,Corporate
+Dorothy Wardle,South,223.772,-25.5892,Corporate
+Dorothy Wardle,West,192.93,92.6064,Corporate
+Dorris liebe,Central,1.624,-4.466,Corporate
+Dorris liebe,East,673.818,150.5328,Corporate
+Dorris liebe,West,80.16,29.172,Corporate
+Doug Bickford,South,440.064,-62.7261,Consumer
+Doug Bickford,West,1548.986,501.5273,Consumer
+Doug Jacobs,East,3036.43,695.568,Consumer
+Doug Jacobs,West,319.968,35.9964,Consumer
+Doug O'Connell,Central,76.64,26.824,Consumer
+Doug O'Connell,East,517.59,74.6214,Consumer
+Doug O'Connell,South,320.462,79.9076,Consumer
+Doug O'Connell,West,352.624,112.7146,Consumer
+Duane Benoit,Central,17.324,-15.1454,Consumer
+Duane Benoit,East,259.062,12.5469,Consumer
+Duane Benoit,West,878.816,180.272,Consumer
+Duane Huffman,East,85.3,14.501,Home Office
+Duane Huffman,South,497.704,86.986,Home Office
+Duane Huffman,West,460.092,15.18,Home Office
+Duane Noonan,Central,477.3,138.417,Consumer
+Duane Noonan,East,711.06,169.3574,Consumer
+Duane Noonan,West,951.43,232.7661,Consumer
+Ed Braxton,Central,183.3,43.9239,Corporate
+Ed Braxton,East,1411.494,-112.1828,Corporate
+Ed Braxton,West,2050.184,81.8804,Corporate
+Ed Jacobs,Central,92.856,-62.2518,Consumer
+Ed Jacobs,East,422.856,15.8571,Consumer
+Ed Jacobs,West,1646.462,433.4123,Consumer
+Ed Ludwig,Central,86.62,8.662,Home Office
+Ed Ludwig,East,37.66,18.4534,Home Office
+Edward Becker,Central,341.96,-427.45,Corporate
+Edward Becker,East,2034.036,233.1756,Corporate
+Edward Becker,South,687.726,58.9568,Corporate
+Edward Becker,West,172.592,55.0316,Corporate
+Edward Hooks,Central,22.992,5.7996,Corporate
+Edward Hooks,East,2840.118,797.961,Corporate
+Edward Hooks,West,7447.77,589.7548,Corporate
+Edward Nazzal,Central,107.532,47.5668,Consumer
+Edward Nazzal,East,2091.834,448.5463,Consumer
+Eileen Kiefer,Central,25.488,4.779,Home Office
+Eileen Kiefer,West,1277.99,92.3276,Home Office
+Eleni McCrary,East,510.634,3.9378,Corporate
+Eleni McCrary,West,2056.376,-137.7653,Corporate
+Elizabeth Moffitt,Central,1621.652,373.7078,Corporate
+Elizabeth Moffitt,East,345.26,154.4214,Corporate
+Elizabeth Moffitt,South,30.406,11.3366,Corporate
+Elizabeth Moffitt,West,342.28,143.0884,Corporate
+Ellis Ballard,Central,94.428,-42.4926,Corporate
+Ellis Ballard,East,212.88,0,Corporate
+Ellis Ballard,South,13.62,6.129,Corporate
+Ellis Ballard,West,4037.2,692.5624,Corporate
+Elpida Rittenbach,Central,77.88,22.5852,Corporate
+Elpida Rittenbach,South,1106.924,-322.8988,Corporate
+Elpida Rittenbach,West,60.984,4.5738,Corporate
+Emily Burns,Central,127.869,-9.1335,Consumer
+Emily Burns,East,655.182,80.9004,Consumer
+Emily Burns,South,464.976,-76.4241,Consumer
+Emily Burns,West,1519.192,266.1887,Consumer
+Emily Ducich,Central,268.288,-93.2122,Home Office
+Emily Ducich,East,2621.322,553.3902,Home Office
+Emily Ducich,West,595.31,210.2655,Home Office
+Emily Grady,Central,253.428,61.0904,Consumer
+Emily Grady,East,1380.872,-12.1864,Consumer
+Emily Grady,South,197.72,55.3616,Consumer
+Emily Phan,Central,2546.4048,-289.7167,Consumer
+Emily Phan,East,1958.774,286.2737,Consumer
+Emily Phan,South,277.242,40.8418,Consumer
+Emily Phan,West,695.64,107.559,Consumer
+Eric Barreto,Central,583.164,-46.782,Consumer
+Eric Barreto,South,239.216,12.5256,Consumer
+Eric Barreto,West,122.22,34.8606,Consumer
+Eric Hoffmann,Central,296.668,28.1341,Consumer
+Eric Hoffmann,East,158.319,-35.6058,Consumer
+Eric Hoffmann,South,25.92,9.072,Consumer
+Eric Hoffmann,West,203.264,51.9395,Consumer
+Eric Murdock,Central,111.76,-1.7688,Consumer
+Eric Murdock,East,62.604,3.579,Consumer
+Eric Murdock,West,759.34,100.4858,Consumer
+Erica Bern,South,984.671,112.8868,Corporate
+Erica Bern,West,658.584,49.9913,Corporate
+Erica Hackney,Central,151.192,13.2293,Consumer
+Erica Hackney,East,391.136,83.0546,Consumer
+Erica Hackney,South,149.95,65.978,Consumer
+Erica Hackney,West,133.672,-11.886,Consumer
+Erica Hernandez,Central,269.68,54.4388,Home Office
+Erica Hernandez,East,167.638,44.7732,Home Office
+Erica Hernandez,South,587.86,-284.0908,Home Office
+Erica Hernandez,West,194.352,90.738,Home Office
+Erica Smith,Central,117.456,44.046,Consumer
+Erica Smith,East,239.97,71.991,Consumer
+Erica Smith,South,209.568,-23.5764,Consumer
+Erica Smith,West,2943.464,910.8329,Consumer
+Erin Ashbrook,Central,1443.41,53.9219,Corporate
+Erin Ashbrook,East,989.337,-275.8514,Corporate
+Erin Ashbrook,South,205.338,75.3123,Corporate
+Erin Ashbrook,West,208.62,93.8766,Corporate
+Erin Creighton,Central,38.16,19.08,Consumer
+Erin Creighton,East,31.164,7.5344,Consumer
+Erin Creighton,South,299.07,43.0824,Consumer
+Erin Creighton,West,93.52,26.7288,Consumer
+Erin Mull,Central,30.336,-17.4432,Consumer
+Erin Mull,East,177.15,62.6246,Consumer
+Erin Mull,South,21.504,-5.0268,Consumer
+Erin Smith,East,2252.476,220.7677,Corporate
+Erin Smith,South,95.616,9.5616,Corporate
+Erin Smith,West,2309.832,16.3368,Corporate
+Eudokia Martin,East,65.12,16.9312,Corporate
+Eudokia Martin,South,520.03,160.2692,Corporate
+Eudokia Martin,West,455.892,63.0358,Corporate
+Eugene Barchas,East,1976.826,138.2534,Consumer
+Eugene Barchas,West,1094.3,46.5122,Consumer
+Eugene Hildebrand,Central,703.68,-53.56,Home Office
+Eugene Hildebrand,East,1571.918,47.3072,Home Office
+Eugene Hildebrand,South,302.524,120.4078,Home Office
+Eugene Hildebrand,West,504.531,-17.8848,Home Office
+Eugene Moren,Central,1282.61,509.1174,Home Office
+Eugene Moren,East,807.54,271.4153,Home Office
+Eugene Moren,West,2498.286,538.8328,Home Office
+Eva Jacobs,East,1517.049,335.3556,Consumer
+Eva Jacobs,South,48.69,23.8581,Consumer
+Eva Jacobs,West,1090.952,92.6618,Consumer
+Evan Bailliet,Central,352.672,120.2784,Consumer
+Evan Bailliet,South,15.856,5.2792,Consumer
+Evan Bailliet,West,817.798,156.6125,Consumer
+Evan Henry,Central,6.928,-11.0848,Consumer
+Evan Henry,East,663.802,181.3361,Consumer
+Evan Henry,South,253.154,71.8594,Consumer
+Evan Minnotte,Central,298.116,-4.2588,Home Office
+Evan Minnotte,South,68.706,26.0309,Home Office
+Filia McAdams,East,1484.748,9.6357,Corporate
+Filia McAdams,South,898.11,213.9827,Corporate
+Filia McAdams,West,73.78,26.0624,Corporate
+Frank Atkinson,Central,80.88,-17.0556,Corporate
+Frank Atkinson,South,820.42,95.0837,Corporate
+Frank Atkinson,West,2082.754,442.4948,Corporate
+Frank Carlisle,Central,2377.56,972.2454,Home Office
+Frank Carlisle,East,175.272,12.8552,Home Office
+Frank Carlisle,South,220.056,19.2549,Home Office
+Frank Carlisle,West,645.854,212.8107,Home Office
+Frank Gastineau,Central,298.464,26.1156,Home Office
+Frank Gastineau,East,903.036,358.2719,Home Office
+Frank Gastineau,West,181.644,10.3522,Home Office
+Frank Hawley,Central,1262.16,307.9703,Corporate
+Frank Hawley,East,1369.532,433.2463,Corporate
+Frank Hawley,South,809.628,125.3026,Corporate
+Frank Hawley,West,814.952,206.7484,Corporate
+Frank Merwin,Central,65.84,-34.463,Home Office
+Frank Merwin,East,1803.134,-266.5292,Home Office
+Frank Merwin,South,1446.84,376.8408,Home Office
+Frank Merwin,West,420.384,122.2609,Home Office
+Frank Olsen,Central,209.048,-44.1314,Consumer
+Frank Olsen,East,682.216,1.5543,Consumer
+Frank Olsen,South,1547.884,291.2678,Consumer
+Frank Olsen,West,239.29,-33.0938,Consumer
+Frank Preis,Central,1061.328,-140.5778,Consumer
+Frank Preis,East,2503.452,450.5159,Consumer
+Frank Preis,West,481.966,96.5092,Consumer
+Fred Chung,Central,209.664,23.9124,Corporate
+Fred Chung,East,51.968,-10.3936,Corporate
+Fred Chung,West,3627.734,700.7738,Corporate
+Fred Harton,Central,24.816,1.551,Consumer
+Fred Harton,East,189.918,-26.9162,Consumer
+Fred Harton,South,1142.43,364.3753,Consumer
+Fred Harton,West,914.12,367.2789,Consumer
+Fred Hopkins,East,1505.772,230.8318,Corporate
+Fred Hopkins,South,426.942,-172.4535,Corporate
+Fred Hopkins,West,5054.482,1991.9043,Corporate
+Fred McMath,Central,1115.528,136.5001,Consumer
+Fred McMath,East,166.55,58.3169,Consumer
+Fred McMath,South,577.236,-11.6349,Consumer
+Fred McMath,West,663.952,8.3077,Consumer
+Fred Wasserman,East,43.6,12.208,Corporate
+Fred Wasserman,South,19.56,5.4768,Corporate
+Fred Wasserman,West,16.59,5.8065,Corporate
+Gary Hansen,Central,1831.976,-187.1187,Home Office
+Gary Hansen,East,178.21,45.7104,Home Office
+Gary Hansen,South,16.218,-10.9566,Home Office
+Gary Hansen,West,793.063,-424.4686,Home Office
+Gary Hwang,South,12.828,-8.9796,Consumer
+Gary Hwang,West,4160.018,1185.3977,Consumer
+Gary McGarr,East,583.412,30.096,Consumer
+Gary McGarr,South,310.528,17.8716,Consumer
+Gary McGarr,West,2688.88,299.2984,Consumer
+Gary Mitchum,Central,1199.408,326.2116,Home Office
+Gary Mitchum,East,1879.216,467.0698,Home Office
+Gary Zandusky,Central,513.15,53.6548,Consumer
+Gary Zandusky,East,2587.4,875.3225,Consumer
+Gary Zandusky,South,54.66,18.0378,Consumer
+Gary Zandusky,West,1199.94,140.7388,Consumer
+Gene Hale,Central,1361.244,-95.4498,Corporate
+Gene McClure,Central,131.476,-18.9396,Consumer
+Gene McClure,East,815.134,359.4975,Consumer
+Gene McClure,South,9.952,0.9952,Consumer
+Gene McClure,West,299.12,99.7654,Consumer
+George Ashbrook,Central,679.392,55.0014,Consumer
+George Ashbrook,East,449.454,82.4374,Consumer
+George Ashbrook,South,43.68,20.9664,Consumer
+George Ashbrook,West,2747.25,682.4938,Consumer
+George Bell,Central,18.72,4.1034,Corporate
+George Bell,East,890.366,-111.8208,Corporate
+George Bell,South,334.95,47.6265,Corporate
+George Bell,West,324.404,67.928,Corporate
+George Zrebassa,East,46.26,12.4902,Corporate
+George Zrebassa,West,2408.362,816.1708,Corporate
+Georgia Rosenberg,East,1271.42,353.6124,Corporate
+Georgia Rosenberg,West,12.96,6.2208,Corporate
+Giulietta Baptist,Central,279.9,137.151,Consumer
+Giulietta Baptist,East,260.048,84.8148,Consumer
+Giulietta Baptist,South,4176.34,913.8735,Consumer
+Giulietta Dortch,East,737.394,-155.2983,Corporate
+Giulietta Dortch,South,47.32,22.0028,Corporate
+Giulietta Dortch,West,1103.356,364.2328,Corporate
+Giulietta Weimer,Central,513.861,-34.4451,Consumer
+Giulietta Weimer,East,911.036,-328.5296,Consumer
+Giulietta Weimer,South,435.552,44.5783,Consumer
+Giulietta Weimer,West,328.57,49.8541,Consumer
+Grace Kelly,Central,489.844,59.4482,Corporate
+Grace Kelly,East,1793.98,843.1706,Corporate
+Grace Kelly,South,64.68,8.085,Corporate
+Grace Kelly,West,4148.766,537.8487,Corporate
+Grant Thornton,East,1183.792,-283.3195,Corporate
+Grant Thornton,South,8167.42,-3825.3394,Corporate
+Greg Guthrie,Central,214.72,0.4376,Corporate
+Greg Guthrie,East,57.094,5.6275,Corporate
+Greg Guthrie,South,157.794,-115.7156,Corporate
+Greg Guthrie,West,1794.392,122.349,Corporate
+Greg Hansen,Central,146.9408,-5.8102,Consumer
+Greg Matthias,East,1140.084,-199.017,Consumer
+Greg Matthias,West,2023.544,234.5035,Consumer
+Greg Maxwell,South,4251.92,112.2737,Corporate
+Greg Maxwell,West,1798.046,76.4498,Corporate
+Greg Tran,Central,1196.852,83.6012,Consumer
+Greg Tran,East,9382.934,1749.107,Consumer
+Greg Tran,West,1240.334,330.7187,Consumer
+Guy Armstrong,Central,712.572,-9.6401,Consumer
+Guy Armstrong,East,76.864,15.5488,Consumer
+Guy Armstrong,South,232.57,85.8446,Consumer
+Guy Armstrong,West,376.376,44.9546,Consumer
+Guy Phonely,East,236.53,31.8376,Corporate
+Guy Thornton,Central,112.912,-39.6382,Consumer
+Guy Thornton,West,113.524,33.499,Consumer
+Hallie Redmond,Central,1046.1,159.2974,Home Office
+Hallie Redmond,East,5.94,1.6038,Home Office
+Hallie Redmond,South,235.44,20.3978,Home Office
+Hallie Redmond,West,11.808,4.2804,Home Office
+Harold Dahlen,Central,122.052,-166.8786,Home Office
+Harold Dahlen,East,129.308,31.0026,Home Office
+Harold Engle,Central,285.802,86.6671,Corporate
+Harold Engle,East,597.73,187.7357,Corporate
+Harold Pawlan,Central,141.474,-106.638,Home Office
+Harold Pawlan,East,1496.032,370.4429,Home Office
+Harold Pawlan,South,111.15,48.906,Home Office
+Harold Pawlan,West,241.658,61.1528,Home Office
+Harold Ryan,East,1229.879,174.2146,Corporate
+Harold Ryan,South,13.632,3.5784,Corporate
+Harold Ryan,West,4005.276,1019.1574,Corporate
+Harry Greene,Central,348.928,123.7276,Consumer
+Harry Greene,East,366.8,1.6744,Consumer
+Harry Greene,South,69.9,21.6012,Consumer
+Harry Marie,Central,6621.4788,1996.8809,Corporate
+Harry Marie,East,1172.942,287.7397,Corporate
+Harry Marie,West,442.344,153.363,Corporate
+Heather Jas,Central,53.72,13.9672,Home Office
+Heather Jas,South,5.08,1.651,Home Office
+Heather Jas,West,299.3,83.0366,Home Office
+Heather Kirkland,Central,3300.194,617.3633,Corporate
+Heather Kirkland,East,450.09,117.0234,Corporate
+Heather Kirkland,South,71.408,20.9962,Corporate
+Heather Kirkland,West,1056.092,201.5622,Corporate
+Helen Abelman,Central,17.496,-7.4358,Consumer
+Helen Abelman,East,1036.62,194.4406,Consumer
+Helen Abelman,West,1109.184,83.8526,Consumer
+Helen Andreada,Central,393.414,-123.5127,Consumer
+Helen Andreada,East,14.2,3.3725,Consumer
+Helen Andreada,South,645.136,78.1812,Consumer
+Helen Andreada,West,1531.408,141.1035,Consumer
+Helen Wasserman,Central,6100.746,1378.8752,Corporate
+Helen Wasserman,East,355.32,99.4896,Corporate
+Helen Wasserman,West,2844.188,685.7963,Corporate
+Henia Zydlo,Central,120.6,-64.7538,Consumer
+Henia Zydlo,East,42,15.8069,Consumer
+Henia Zydlo,South,723.92,-81.441,Consumer
+Henry Goldwyn,Central,1890.866,-2930.8861,Corporate
+Henry Goldwyn,East,289.66,-67.9484,Corporate
+Henry Goldwyn,South,84.64,33.9272,Corporate
+Henry Goldwyn,West,982.476,166.9438,Corporate
+Henry MacAllister,East,4.616,1.731,Consumer
+Henry MacAllister,South,22.744,2.5149,Consumer
+Henry MacAllister,West,708.916,113.0296,Consumer
+Herbert Flentye,Central,43.85,20.483,Consumer
+Herbert Flentye,East,430.94,68.6802,Consumer
+Herbert Flentye,South,825.129,-242.5454,Consumer
+Herbert Flentye,West,1233.245,139.5054,Consumer
+Hilary Holden,West,218.668,86.7342,Corporate
+Hunter Glantz,Central,2132.984,656.5762,Consumer
+Hunter Glantz,East,350.06,72.3415,Consumer
+Hunter Glantz,South,89.32,19.7976,Consumer
+Hunter Glantz,West,1117.92,55.896,Consumer
+Hunter Lopez,Central,491.348,139.3253,Consumer
+Hunter Lopez,East,10522.55,5045.8564,Consumer
+Hunter Lopez,South,1859.4,437.2475,Consumer
+Ionia McGrath,West,2872.63,975.7701,Consumer
+Irene Maddox,Central,1099.96,285.9896,Consumer
+Irene Maddox,East,627.77,164.975,Consumer
+Irene Maddox,South,1979.89,240.6027,Consumer
+Irene Maddox,West,1222.854,-176.9146,Consumer
+Ivan Gibson,East,370.14,144.3546,Consumer
+Ivan Gibson,South,199.17,92.9308,Consumer
+Ivan Gibson,West,175.264,83.2128,Consumer
+Ivan Liston,Central,1827.294,458.2382,Consumer
+Ivan Liston,East,1846.42,408.1498,Consumer
+Ivan Liston,West,1367.022,255.549,Consumer
+Jack Garza,South,312.322,-45.5154,Consumer
+Jack Garza,West,2046.354,729.7065,Consumer
+Jack Lebron,Central,34.752,4.8672,Consumer
+Jack Lebron,East,57.792,1.24,Consumer
+Jack Lebron,South,1118.428,-215.2972,Consumer
+Jack Lebron,West,3.984,1.3944,Consumer
+Jack O'Briant,Central,1671.93,456.9723,Corporate
+Jack O'Briant,East,284.684,23.0232,Corporate
+Jack O'Briant,South,87.94,26.341,Corporate
+Jack O'Briant,West,1210.395,75.068,Corporate
+James Galang,Central,769.024,95.2966,Consumer
+James Galang,East,1848.238,525.0797,Consumer
+James Galang,South,296.85,109.4121,Consumer
+James Galang,West,3452.28,685.878,Consumer
+James Lanier,South,101.139,1.4321,Home Office
+James Lanier,West,1470.384,207.8496,Home Office
+Jamie Frazer,East,1559.5,450.5109,Consumer
+Jamie Frazer,South,362.176,37.3976,Consumer
+Jamie Frazer,West,357.91,87.2174,Consumer
+Jamie Kunitz,East,370.226,30.8391,Consumer
+Jamie Kunitz,South,2063.144,631.8126,Consumer
+Jamie Kunitz,West,1993.772,557.3313,Consumer
+Jane Waco,East,320.024,96.9722,Corporate
+Jane Waco,South,10.16,3.4544,Corporate
+Jane Waco,West,7391.53,2073.2828,Corporate
+Janet Lee,Central,104.92,-190.509,Consumer
+Janet Lee,East,1091.548,156.8328,Consumer
+Janet Lee,South,751.984,84.5982,Consumer
+Janet Lee,West,255.248,3.5954,Consumer
+Janet Martin,Central,954.902,-390.9563,Consumer
+Janet Martin,East,1407.428,382.4389,Consumer
+Janet Martin,South,378.496,23.1122,Consumer
+Janet Martin,West,418.296,5.2287,Consumer
+Janet Molinari,Central,550.836,137.3762,Corporate
+Janet Molinari,East,1045.21,304.9421,Corporate
+Janet Molinari,West,208.1,60.296,Corporate
+Jas O'Carroll,East,0.852,-0.5964,Consumer
+Jas O'Carroll,South,243.92,-54.882,Consumer
+Jas O'Carroll,West,1689.5,257.6146,Consumer
+Jason Fortune-,Central,120.888,17.3984,Consumer
+Jason Fortune-,West,834.236,79.8906,Consumer
+Jason Gross,Central,619.976,-65.6054,Corporate
+Jason Gross,East,1112.06,91.7246,Corporate
+Jason Gross,West,508.544,-22.3216,Corporate
+Jason Klamczynski,Central,269.592,17.2983,Corporate
+Jason Klamczynski,East,23.36,11.68,Corporate
+Jason Klamczynski,West,90.86,26.3494,Corporate
+Jasper Cacioppo,East,13.483,-5.9998,Consumer
+Jasper Cacioppo,West,57.78,5.6442,Consumer
+Jay Fein,Central,73.56,11.9676,Consumer
+Jay Fein,East,122.62,51.6702,Consumer
+Jay Fein,South,85.5,40.756,Consumer
+Jay Fein,West,1630.164,225.8052,Consumer
+Jay Kimmel,East,1099.91,115.338,Consumer
+Jay Kimmel,South,810.56,149.3567,Consumer
+Jay Kimmel,West,799.162,65.5891,Consumer
+Jenna Caffey,West,1058.108,502.9244,Consumer
+Jennifer Braxton,Central,323.04,-53.0364,Corporate
+Jennifer Braxton,East,746.43,299.3164,Corporate
+Jennifer Braxton,South,324.387,-102.3419,Corporate
+Jennifer Braxton,West,397.748,12.1151,Corporate
+Jennifer Ferguson,Central,73.576,28.1452,Consumer
+Jennifer Ferguson,East,134.524,56.4337,Consumer
+Jennifer Ferguson,West,2163.348,551.0587,Consumer
+Jennifer Halladay,East,59.913,-45.9333,Consumer
+Jennifer Halladay,South,193.696,3.0669,Consumer
+Jennifer Halladay,West,55.672,18.7893,Consumer
+Jennifer Jackson,Central,61.604,16.6564,Consumer
+Jennifer Jackson,East,610.95,170.1654,Consumer
+Jennifer Jackson,West,36.624,13.734,Consumer
+Jennifer Patt,Central,264.033,7.3185,Corporate
+Jennifer Patt,East,1371.302,418.203,Corporate
+Jennifer Patt,West,33.8,4.225,Corporate
+Jeremy Ellison,Central,60.44,-13.6322,Consumer
+Jeremy Ellison,East,271.252,65.4034,Consumer
+Jeremy Ellison,West,1056.99,224.4485,Consumer
+Jeremy Farry,Central,191.968,28.7952,Consumer
+Jeremy Farry,East,219.052,18.3272,Consumer
+Jeremy Farry,South,14.73,7.2177,Consumer
+Jeremy Farry,West,657.168,-72.4074,Consumer
+Jeremy Lonsdale,Central,99.876,7.3542,Consumer
+Jeremy Lonsdale,East,510.684,51.0228,Consumer
+Jeremy Lonsdale,West,2563.314,533.3393,Consumer
+Jeremy Pistek,Central,1830.664,424.3358,Consumer
+Jeremy Pistek,South,254.956,116.0814,Consumer
+Jeremy Pistek,West,1549.974,216.763,Consumer
+Jessica Myrick,East,1272.118,343.0923,Consumer
+Jessica Myrick,West,461.325,13.4472,Consumer
+Jesus Ocampo,Central,23.55,1.1775,Home Office
+Jesus Ocampo,East,570.492,113.4179,Home Office
+Jesus Ocampo,West,496.796,53.0755,Home Office
+Jill Fjeld,Central,651.152,101.873,Consumer
+Jill Fjeld,East,899.952,158.0649,Consumer
+Jill Fjeld,South,2442.378,755.9129,Consumer
+Jill Fjeld,West,204.85,57.358,Consumer
+Jill Matthias,East,25.06,11.7782,Consumer
+Jill Matthias,South,99.872,31.8076,Consumer
+Jill Matthias,West,179.016,69.5346,Consumer
+Jill Stevenson,Central,257.508,-53.7226,Corporate
+Jill Stevenson,East,362.242,-204.7542,Corporate
+Jill Stevenson,South,783.96,78.396,Corporate
+Jill Stevenson,West,13.944,4.5318,Corporate
+Jim Epp,Central,438.01,158.2877,Corporate
+Jim Epp,East,292.82,27.1956,Corporate
+Jim Epp,South,6264.354,1358.4354,Corporate
+Jim Epp,West,759.792,79.4832,Corporate
+Jim Karlsson,East,1424.908,444.806,Consumer
+Jim Karlsson,South,773.7,230.9727,Consumer
+Jim Karlsson,West,1561.42,75.1698,Consumer
+Jim Kriz,East,493.264,152.4316,Home Office
+Jim Kriz,West,4267.17,1020.0987,Home Office
+Jim Mitchum,East,455.055,65.9007,Corporate
+Jim Mitchum,West,409.892,51.3033,Corporate
+Jim Radford,East,552.56,0,Consumer
+Jim Radford,West,604.098,-785.1645,Consumer
+Jim Sink,East,478.044,-107.787,Corporate
+Jim Sink,South,552.856,34.8962,Corporate
+Jim Sink,West,100.164,18.0216,Corporate
+Jocasta Rupert,South,863.88,107.985,Consumer
+Joe Elijah,Central,224.736,-31.8792,Consumer
+Joe Elijah,East,2588.752,315.1896,Consumer
+Joe Elijah,South,2630.321,210.6888,Consumer
+Joe Elijah,West,3254.034,768.2934,Consumer
+Joe Kamberova,Central,1138.024,-294.382,Consumer
+Joe Kamberova,East,1614.124,72.1372,Consumer
+Joe Kamberova,South,1778.086,234.9781,Consumer
+Joe Kamberova,West,336.966,42.315,Consumer
+Joel Eaton,Central,2757.378,-375.0429,Consumer
+Joel Eaton,East,765.152,81.6338,Consumer
+Joel Eaton,South,2469.26,412.4702,Consumer
+Joel Eaton,West,769.025,102.7356,Consumer
+Joel Jenkins,Central,119.96,11.996,Home Office
+Joel Jenkins,South,75.04,22.4532,Home Office
+John Castell,Central,470.376,47.0376,Consumer
+John Castell,East,537.302,-18.8526,Consumer
+John Castell,South,1050.744,218.63,Consumer
+John Castell,West,713.633,32.7542,Consumer
+John Dryer,Central,50.784,10.488,Consumer
+John Dryer,East,227.96,36.4736,Consumer
+John Dryer,South,1801.632,-337.806,Consumer
+John Dryer,West,71.976,24.2919,Consumer
+John Grady,Central,209.168,18.3736,Corporate
+John Grady,East,1256.97,169.1433,Corporate
+John Grady,West,40.88,18.585,Corporate
+John Huston,Central,293.84,44.3207,Consumer
+John Huston,East,216.894,-23.0097,Consumer
+John Huston,South,18.176,4.7712,Consumer
+John Lee,Central,1233.61,252.8865,Consumer
+John Lee,East,2870.686,-229.9283,Consumer
+John Lee,South,4519.839,-172.5347,Consumer
+John Lee,West,1175.788,378.4835,Consumer
+John Lucas,Central,26.632,1.3316,Consumer
+John Lucas,East,314.85,52.886,Consumer
+John Lucas,West,2383.774,725.687,Consumer
+John Murray,Central,345.324,-49.83,Consumer
+John Murray,East,4769.834,1172.9227,Consumer
+John Murray,South,36.27,10.881,Consumer
+John Murray,West,2473.648,440.6427,Consumer
+John Stevenson,Central,611.9,83.7489,Consumer
+John Stevenson,East,172.11,-94.6605,Consumer
+John Stevenson,South,1366.04,182.998,Consumer
+John Stevenson,West,1717.97,392.8934,Consumer
+Jonathan Doherty,East,3382.004,-268.7867,Corporate
+Jonathan Doherty,South,2344.43,778.0227,Corporate
+Jonathan Doherty,West,1884.43,541.0308,Corporate
+Jonathan Howell,Central,302.293,-112.9424,Consumer
+Jonathan Howell,East,5.904,1.9926,Consumer
+Jonathan Howell,South,255.844,48.6603,Consumer
+Jonathan Howell,West,395.436,48.735,Consumer
+Joni Blumstein,Central,22.368,6.4308,Consumer
+Joni Blumstein,East,627.924,-365.987,Consumer
+Joni Blumstein,West,250.26,72.5754,Consumer
+Joni Sundaresam,Central,284.848,-309.1886,Home Office
+Joni Sundaresam,East,184.321,-18.745,Home Office
+Joni Wasserman,East,462.638,-169.9584,Consumer
+Joni Wasserman,South,597.848,99.0851,Consumer
+Joni Wasserman,West,183.6,41.2974,Consumer
+Joseph Airdo,Central,477.5,114.6576,Consumer
+Joseph Airdo,East,4842.745,-1007.7976,Consumer
+Joseph Airdo,West,1170.781,73.7183,Consumer
+Joseph Holt,Central,376.1,68.8809,Consumer
+Joseph Holt,South,4297.644,-1862.3124,Consumer
+Joseph Holt,West,3281.254,1148.7333,Consumer
+Joy Bell-,Central,345.2128,-6.2432,Consumer
+Joy Bell-,East,197.916,89.8914,Consumer
+Joy Bell-,West,100.99,43.1167,Consumer
+Joy Daniels,Central,110.84,12.2179,Consumer
+Joy Daniels,East,245.35,0.7998,Consumer
+Joy Daniels,West,29.24,13.7428,Consumer
+Joy Smith,Central,1346.914,-691.9529,Consumer
+Joy Smith,East,19.456,3.4048,Consumer
+Joy Smith,South,1110.5,363.4222,Consumer
+Joy Smith,West,39.624,13.8684,Consumer
+Julia Barnett,East,540.265,-72.6731,Home Office
+Julia Barnett,South,1311.97,167.6508,Home Office
+Julia Barnett,West,665.88,106.5408,Home Office
+Julia Dunbar,Central,483.482,102.6357,Consumer
+Julia Dunbar,West,211.96,8.4784,Consumer
+Julia West,Central,53.088,-108.8304,Consumer
+Julia West,East,88.704,13.424,Consumer
+Julia West,South,1270.379,242.5149,Consumer
+Julia West,West,16.56,6.9552,Consumer
+Juliana Krohn,Central,2479.96,743.988,Consumer
+Juliana Krohn,South,893.09,228.8928,Consumer
+Juliana Krohn,West,374.618,-386.2183,Consumer
+Julie Creighton,Central,67.15,16.7875,Corporate
+Julie Creighton,East,142.92,56.6044,Corporate
+Julie Creighton,South,213.374,68.5069,Corporate
+Julie Creighton,West,435.132,59.6964,Corporate
+Julie Kriz,Central,889.536,-329.8342,Home Office
+Julie Kriz,East,1099.328,143.5388,Home Office
+Julie Kriz,South,799.92,239.976,Home Office
+Julie Kriz,West,143.7,68.976,Home Office
+Julie Prescott,Central,19.67,5.311,Home Office
+Julie Prescott,East,583.848,-0.4552,Home Office
+Julie Prescott,South,593.64,170.1324,Home Office
+Julie Prescott,West,510.552,134.7234,Home Office
+Justin Deggeller,Central,2005.36,488.6107,Corporate
+Justin Deggeller,East,3257.556,597.0225,Corporate
+Justin Deggeller,West,3565.1145,533.8867,Corporate
+Justin Ellison,Central,2657.81,775.9808,Corporate
+Justin Ellison,South,14.76,4.2804,Corporate
+Justin Ellison,West,24.678,9.3864,Corporate
+Justin Hirsh,East,1215.53,-169.3298,Consumer
+Justin Hirsh,West,1040.864,72.3768,Consumer
+Justin MacKendrick,East,250.9,37.3393,Consumer
+Justin MacKendrick,South,1017.222,265.5354,Consumer
+Justin MacKendrick,West,1565.804,451.2397,Consumer
+Justin Ritter,Central,656.22,296.8818,Corporate
+Justin Ritter,East,8.904,-6.5296,Corporate
+Justin Ritter,South,717.12,152.388,Corporate
+Justin Ritter,West,819.442,9.6328,Corporate
+Kalyca Meade,Central,165.28,74.7862,Corporate
+Kalyca Meade,East,1675.444,450.1125,Corporate
+Kalyca Meade,West,420.234,110.207,Corporate
+Karen Bern,Central,1347.852,475.2252,Corporate
+Karen Bern,East,24.4,7.93,Corporate
+Karen Bern,South,134.093,-19.4891,Corporate
+Karen Bern,West,1646.27,300.2415,Corporate
+Karen Carlisle,East,70.544,-11.344,Corporate
+Karen Carlisle,South,2033.29,849.4193,Corporate
+Karen Carlisle,West,17.12,8.0464,Corporate
+Karen Daniels,Central,1639.496,-1340.5041,Consumer
+Karen Daniels,East,6241.282,2283.0463,Consumer
+Karen Daniels,South,75.88,35.6636,Consumer
+Karen Daniels,West,325.7,129.4894,Consumer
+Karen Ferguson,Central,639.83,103.9546,Home Office
+Karen Ferguson,East,2633.51,632.4619,Home Office
+Karen Ferguson,South,148.16,45.2831,Home Office
+Karen Ferguson,West,7182.766,878.439,Home Office
+Karen Seio,South,71.696,-1.5666,Corporate
+Karen Seio,West,16.776,1.6776,Corporate
+Karl Braun,Central,111.65,44.606,Consumer
+Karl Braun,East,820.33,-101.7222,Consumer
+Karl Braun,South,126.66,37.2,Consumer
+Karl Braun,West,510.824,69.6355,Consumer
+Katharine Harms,Central,622.37,8.4256,Corporate
+Katharine Harms,East,2525.918,403.782,Corporate
+Katharine Harms,South,140.81,39.4268,Corporate
+Katharine Harms,West,23.766,3.1527,Corporate
+Katherine Ducich,Central,775.01,-8.6192,Consumer
+Katherine Ducich,East,940.434,275.3462,Consumer
+Katherine Ducich,West,173.52,61.8672,Consumer
+Katherine Hughes,Central,1232.78,17.3468,Consumer
+Katherine Hughes,East,45.452,12.8364,Consumer
+Katherine Hughes,South,1822.38,498.0219,Consumer
+Katherine Murray,Central,1569.896,-101.5453,Home Office
+Katherine Murray,East,2846.22,1071.7254,Home Office
+Katherine Murray,South,288.33,130.6667,Home Office
+Katherine Murray,West,915.74,-127.0566,Home Office
+Katherine Nockton,Central,68.712,15.6534,Corporate
+Katherine Nockton,East,2146.704,-131.4637,Corporate
+Katherine Nockton,West,401.856,-35.3415,Corporate
+Katrina Bavinger,East,697.525,209.5822,Home Office
+Katrina Bavinger,West,211.296,64.7148,Home Office
+Katrina Edelman,Central,315.7592,-17.0502,Corporate
+Katrina Edelman,East,692.132,234.2953,Corporate
+Katrina Edelman,South,170.352,10.647,Corporate
+Katrina Edelman,West,508.488,169.9878,Corporate
+Katrina Willman,Central,106.564,31.4481,Consumer
+Katrina Willman,East,562.026,118.9848,Consumer
+Katrina Willman,South,3747.93,1605.7021,Consumer
+Kean Nguyen,Central,48.632,-121.58,Corporate
+Kean Nguyen,East,274.2,112.422,Corporate
+Kean Nguyen,South,1.167,-0.8558,Corporate
+Kean Nguyen,West,1847.963,124.3221,Corporate
+Kean Takahito,Central,1711.706,50.6738,Consumer
+Kean Takahito,South,52.608,14.8718,Consumer
+Kean Takahito,West,1292.786,188.4576,Consumer
+Kean Thornton,Central,1225.5564,13.5854,Consumer
+Kean Thornton,East,2587.676,149.0963,Consumer
+Kean Thornton,South,80.48,24.144,Consumer
+Kean Thornton,West,748.376,7.2414,Consumer
+Keith Dawkins,Central,1007.354,225.4588,Corporate
+Keith Dawkins,East,5871.738,2516.8114,Corporate
+Keith Dawkins,South,295.044,100.1136,Corporate
+Keith Dawkins,West,1007.12,196.2416,Corporate
+Keith Herrera,Central,96.688,-53.1608,Consumer
+Keith Herrera,South,1046.47,250.8226,Consumer
+Keith Herrera,West,4809.701,458.4544,Consumer
+Kelly Andreada,Central,186.048,67.4424,Consumer
+Kelly Andreada,East,914.578,200.034,Consumer
+Kelly Andreada,West,418.88,-32.557,Consumer
+Kelly Collister,Central,2.296,-3.9032,Consumer
+Kelly Collister,East,103.056,24.4758,Consumer
+Kelly Collister,West,3802.91,688.8493,Consumer
+Kelly Lampkin,Central,1003.486,-259.5362,Corporate
+Kelly Lampkin,East,537.616,-26.3282,Corporate
+Kelly Lampkin,South,2456.706,26.6542,Corporate
+Kelly Lampkin,West,1018.68,76.4289,Corporate
+Kelly Williams,Central,241.34,47.1344,Consumer
+Kelly Williams,South,175.716,52.7826,Consumer
+Kelly Williams,West,32.04,8.01,Consumer
+Ken Black,Central,225.68,54.0839,Corporate
+Ken Black,East,159.75,57.3174,Corporate
+Ken Black,South,1380.746,170.0278,Corporate
+Ken Black,West,978.566,297.926,Corporate
+Ken Brennan,Central,292.592,113.8066,Corporate
+Ken Brennan,East,629.95,163.787,Corporate
+Ken Brennan,West,61.38,15.9588,Corporate
+Ken Dana,East,146.688,45.84,Corporate
+Ken Dana,West,2096.822,493.8819,Corporate
+Ken Heidel,Central,86.264,31.1092,Corporate
+Ken Heidel,East,2588.876,526.1472,Corporate
+Ken Heidel,South,1044.44,127.9659,Corporate
+Ken Heidel,West,199.386,42.1563,Corporate
+Ken Lonsdale,Central,4517.295,146.926,Consumer
+Ken Lonsdale,East,1185.54,233.3158,Consumer
+Ken Lonsdale,West,8472.394,426.6132,Consumer
+Khloe Miller,East,19.312,3.1382,Consumer
+Khloe Miller,South,129.64,34.3474,Consumer
+Khloe Miller,West,304.586,53.6535,Consumer
+Kimberly Carter,South,699.054,64.1711,Corporate
+Kimberly Carter,West,446.996,92.6086,Corporate
+Kristen Hastings,East,51.45,13.8915,Corporate
+Kristen Hastings,South,3769.56,1038.5751,Corporate
+Kristen Hastings,West,2169.789,175.0425,Corporate
+Kristina Nunn,Central,100.86,-183.1062,Home Office
+Kristina Nunn,East,325.33,156.5065,Home Office
+Kristina Nunn,South,475.68,30.5854,Home Office
+Kristina Nunn,West,1378.71,325.7768,Home Office
+Kunst Miller,Central,697.074,61.7937,Consumer
+Kunst Miller,East,1953.86,440.4459,Consumer
+Kunst Miller,West,2258.538,243.5289,Consumer
+Larry Blacks,Central,1.988,-1.4413,Consumer
+Larry Blacks,South,26.72,9.352,Consumer
+Larry Blacks,West,21.48,10.74,Consumer
+Larry Hughes,East,6.57,-5.037,Consumer
+Larry Hughes,South,271.96,16.9975,Consumer
+Larry Hughes,West,8.896,0.6672,Consumer
+Larry Tron,East,74.352,23.235,Consumer
+Larry Tron,West,255.524,35.801,Consumer
+Laura Armstrong,Central,5076.47,1041.5898,Corporate
+Laura Armstrong,East,2123.71,664.0879,Corporate
+Laura Armstrong,South,661.504,68.949,Corporate
+Laura Armstrong,West,811.538,284.4932,Corporate
+Laurel Beltran,Central,3.136,-4.704,Home Office
+Laurel Beltran,East,1465.068,380.3695,Home Office
+Laurel Beltran,South,681.432,43.4442,Home Office
+Laurel Beltran,West,2836.04,-471.3007,Home Office
+Laurel Elliston,Central,223.382,-85.2639,Consumer
+Laurel Elliston,East,29.9,5.083,Consumer
+Laurel Elliston,South,771.4,197.469,Consumer
+Laurel Elliston,West,444.768,44.4768,Consumer
+Laurel Workman,Central,20.64,2.322,Corporate
+Laurel Workman,East,765.494,239.3599,Corporate
+Laurel Workman,South,581.104,68.3612,Corporate
+Laurel Workman,West,870.823,-277.4664,Corporate
+Lauren Leatherbury,East,17.46,5.9364,Consumer
+Lauren Leatherbury,South,2614.71,511.28,Consumer
+Lauren Leatherbury,West,109.034,42.7914,Consumer
+Lela Donovan,Central,5.304,0.4641,Corporate
+Lena Cacioppo,Central,449.458,-499.3606,Consumer
+Lena Cacioppo,East,111.104,8.3328,Consumer
+Lena Cacioppo,South,874.8,144.8492,Consumer
+Lena Cacioppo,West,1145.342,157.9275,Consumer
+Lena Creighton,Central,1126.948,-279.8508,Consumer
+Lena Creighton,East,3220.272,1178.7636,Consumer
+Lena Creighton,South,319.464,38.865,Consumer
+Lena Creighton,West,2996.442,350.5691,Consumer
+Lena Hernandez,Central,315.286,65.2235,Consumer
+Lena Hernandez,East,450.046,74.4828,Consumer
+Lena Hernandez,South,1406.856,340.1874,Consumer
+Lena Hernandez,West,123.144,46.179,Consumer
+Lena Radford,South,1174.368,-234.3405,Consumer
+Lena Radford,West,3968.524,769.8169,Consumer
+Linda Cazamias,Central,1719.81,51.8916,Corporate
+Linda Cazamias,East,8.4,4.2,Corporate
+Linda Cazamias,West,2764.736,232.1744,Corporate
+Linda Southworth,Central,396.394,-359.7987,Corporate
+Linda Southworth,East,85.916,10.0778,Corporate
+Linda Southworth,West,2362.96,30.9472,Corporate
+Lindsay Castell,East,37.776,10.5336,Home Office
+Lindsay Castell,South,532.178,21.2794,Home Office
+Lindsay Castell,West,2676.672,267.6672,Home Office
+Lindsay Shagiari,Central,1170.75,27.5971,Home Office
+Lindsay Shagiari,East,1415.96,177.788,Home Office
+Lindsay Shagiari,West,401.964,57.2516,Home Office
+Lindsay Williams,South,103.968,27.1934,Corporate
+Lindsay Williams,West,3126.34,635.6405,Corporate
+Lisa DeCherney,Central,257.98,74.8142,Consumer
+Lisa DeCherney,East,1609.32,445.9008,Consumer
+Lisa DeCherney,West,94.634,36.4564,Consumer
+Lisa Hazard,Central,51.184,-79.3352,Consumer
+Lisa Hazard,East,107.982,-26.9955,Consumer
+Lisa Hazard,West,159.073,-136.4092,Consumer
+Lisa Ryan,Central,547.997,-387.6759,Corporate
+Lisa Ryan,East,847.809,-123.0432,Corporate
+Lisa Ryan,West,483.5,127.9112,Corporate
+Liz Carlisle,Central,30.56,-19.864,Consumer
+Liz Carlisle,East,609.438,-131.5086,Consumer
+Liz Carlisle,South,866.4,225.264,Consumer
+Liz Carlisle,West,588.666,12.8866,Consumer
+Liz MacKendrick,East,700.644,-123.9822,Consumer
+Liz MacKendrick,South,646.13,79.1042,Consumer
+Liz Pelletier,West,756.606,110.7813,Consumer
+Liz Preis,Central,2488.907,227.9136,Consumer
+Liz Preis,East,548.96,34.974,Consumer
+Liz Preis,South,249.88,31.1756,Consumer
+Liz Preis,West,365.652,44.3822,Consumer
+Liz Thompson,Central,634.113,14.6016,Consumer
+Liz Thompson,East,291.702,-22.0242,Consumer
+Liz Thompson,South,922.61,244.4098,Consumer
+Liz Thompson,West,1087.827,83.9858,Consumer
+Liz Willingham,East,10.36,5.0764,Consumer
+Liz Willingham,South,1120.73,165.8033,Consumer
+Liz Willingham,West,127.95,21.7515,Consumer
+Logan Currie,Central,184.242,-211.2254,Consumer
+Logan Currie,East,1408.346,144.1339,Consumer
+Logan Currie,South,859.14,249.1506,Consumer
+Logan Currie,West,181.854,49.0661,Consumer
+Logan Haushalter,Central,625.089,35.187,Consumer
+Logan Haushalter,East,79.384,29.769,Consumer
+Logan Haushalter,West,1035.216,251.5642,Consumer
+Lori Olson,Central,125.98,-9.7236,Corporate
+Lori Olson,East,295.42,125.4404,Corporate
+Lori Olson,South,176.63,16.3896,Corporate
+Lori Olson,West,46.32,18.0648,Corporate
+Luke Foster,Central,2680.692,-3805.549,Consumer
+Luke Foster,East,1021.439,165.1389,Consumer
+Luke Foster,South,9.568,3.4684,Consumer
+Luke Foster,West,218.81,52.9647,Consumer
+Luke Schmidt,Central,197.288,47.4476,Corporate
+Luke Schmidt,East,100.616,18.6496,Corporate
+Luke Schmidt,South,605.34,145.2816,Corporate
+Luke Schmidt,West,107.012,32.8182,Corporate
+Luke Weiss,Central,118.822,23.9664,Consumer
+Luke Weiss,East,5048.186,773.1004,Consumer
+Luke Weiss,West,253.506,40.1743,Consumer
+Lycoris Saunders,Central,253.34,-6.1662,Consumer
+Lycoris Saunders,East,96.1,36.0302,Consumer
+Lycoris Saunders,West,19.44,9.3312,Consumer
+Lynn Smith,Central,337.828,106.8038,Consumer
+Lynn Smith,East,414.63,139.1934,Consumer
+Lynn Smith,South,47.976,4.7976,Consumer
+Lynn Smith,West,207.702,97.5636,Consumer
+Magdelene Morse,East,1177.063,127.042,Consumer
+Magdelene Morse,West,136.96,51.36,Consumer
+Marc Crier,East,41.374,-13.8847,Consumer
+Marc Crier,South,575.55,171.7854,Consumer
+Marc Crier,West,2109.058,303.1007,Consumer
+Marc Harrigan,East,987.188,-233.054,Home Office
+Marc Harrigan,South,62.752,21.9632,Home Office
+Marc Harrigan,West,1344.085,239.852,Home Office
+Maria Bertelson,Central,321.202,-26.7895,Consumer
+Maria Bertelson,East,620.914,97.801,Consumer
+Maria Bertelson,South,19.584,6.9696,Consumer
+Maria Bertelson,West,587.002,134.4439,Consumer
+Maria Etezadi,Central,1737.256,14.7474,Home Office
+Maria Etezadi,South,5156.56,1489.1767,Home Office
+Maria Etezadi,West,3769.912,355.5454,Home Office
+Maria Zettner,West,593.606,85.0191,Home Office
+Maribeth Dona,Central,933.408,-173.3472,Consumer
+Maribeth Dona,East,1677.584,-163.5222,Consumer
+Maribeth Dona,South,105.42,51.6558,Consumer
+Maribeth Dona,West,1049.97,43.2636,Consumer
+Maribeth Schnelling,Central,678.4,-340.9786,Consumer
+Maribeth Schnelling,East,2292.344,602.1206,Consumer
+Maribeth Schnelling,South,4.608,1.6704,Consumer
+Maribeth Schnelling,West,4468.338,582.1231,Consumer
+Maribeth Yedwab,Central,73.68,24.2052,Corporate
+Maribeth Yedwab,East,547.3,175.136,Corporate
+Maribeth Yedwab,South,76.521,16.536,Corporate
+Maribeth Yedwab,West,1556.784,103.2439,Corporate
+Marina Lichtenstein,East,946.42,298.0024,Corporate
+Marina Lichtenstein,South,22.549,-4.9428,Corporate
+Marina Lichtenstein,West,1753.874,391.8566,Corporate
+Maris LaWare,Central,534.31,151.697,Consumer
+Maris LaWare,East,1052.054,239.495,Consumer
+Maris LaWare,West,1335.136,-467.3675,Consumer
+Mark Cousins,Central,729.528,131.1747,Corporate
+Mark Cousins,East,130.4,57.1984,Corporate
+Mark Cousins,South,3236.41,1556.6952,Corporate
+Mark Cousins,West,335.8,57.322,Corporate
+Mark Haberlin,Central,241.5,0,Corporate
+Mark Haberlin,East,37.768,12.5795,Corporate
+Mark Haberlin,South,103.5,42.8123,Corporate
+Mark Haberlin,West,17.248,6.0368,Corporate
+Mark Hamilton,Central,1825.028,429.06,Consumer
+Mark Hamilton,East,388.85,20.0943,Consumer
+Mark Hamilton,South,47.952,16.1838,Consumer
+Mark Hamilton,West,194.352,19.4352,Consumer
+Mark Packer,Central,1194.866,273.9759,Home Office
+Mark Packer,East,1750.956,229.0888,Home Office
+Mark Packer,South,260.31,97.2226,Home Office
+Mark Van Huff,Central,142.52,-18.624,Consumer
+Mark Van Huff,East,463.924,152.6288,Consumer
+Mark Van Huff,South,359.97,79.1934,Consumer
+Mark Van Huff,West,593.636,-24.1724,Consumer
+Mary O'Rourke,Central,151.027,-48.1241,Consumer
+Mary O'Rourke,East,771.46,107.4818,Consumer
+Mary Zewe,Central,22.16,-24.8936,Corporate
+Mary Zewe,East,362.588,18.8798,Corporate
+Mary Zewe,West,2180.158,793.7641,Corporate
+MaryBeth Skach,East,21.396,-10.7366,Consumer
+MaryBeth Skach,South,301.96,45.294,Consumer
+MaryBeth Skach,West,152.3,49.4694,Consumer
+Mathew Reese,Central,7.68,-11.52,Home Office
+Mathew Reese,East,578.738,150.1867,Home Office
+Mathew Reese,West,52.76,24.2696,Home Office
+Matt Abelman,Central,1309.693,497.7403,Home Office
+Matt Abelman,East,2281.84,627.1067,Home Office
+Matt Abelman,West,707.628,115.3796,Home Office
+Matt Collins,Central,36.294,9.2499,Consumer
+Matt Collins,East,560.763,72.0081,Consumer
+Matt Collins,South,98.446,-7.7228,Consumer
+Matt Collins,West,608.39,137.2141,Consumer
+Matt Collister,Central,1406.917,-125.5219,Corporate
+Matt Collister,East,855.6,367.3324,Corporate
+Matt Collister,West,163.55,47.1736,Corporate
+Matt Connell,Central,1181.006,14.9213,Corporate
+Matt Connell,East,15.232,1.504,Corporate
+Matt Connell,South,862.994,116.5261,Corporate
+Matt Connell,West,198.96,62.4972,Corporate
+Matt Hagelstein,Central,6.816,-11.5872,Corporate
+Matt Hagelstein,East,30.96,11.223,Corporate
+Matt Hagelstein,West,1215.024,122.7254,Corporate
+Matthew Clasen,Central,283.206,-275.1387,Corporate
+Matthew Clasen,West,511.948,27.1952,Corporate
+Matthew Grinstein,Central,2017.372,395.8616,Home Office
+Matthew Grinstein,East,457.568,-78.328,Home Office
+Matthew Grinstein,West,1310.336,24.3644,Home Office
+Maureen Fritzler,East,137.508,51.1404,Corporate
+Maureen Fritzler,South,247.546,67.3206,Corporate
+Maureen Fritzler,West,551.985,-459.9875,Corporate
+Maureen Gastineau,East,835.002,-111.5642,Home Office
+Maureen Gastineau,West,1515.186,137.4528,Home Office
+Maureen Gnade,Central,145.504,-392.8595,Consumer
+Maureen Gnade,East,1196.778,-5.9337,Consumer
+Maurice Satty,Central,561.972,-60.9916,Consumer
+Maurice Satty,East,469.398,55.5471,Consumer
+Maurice Satty,South,498.93,244.2543,Consumer
+Maurice Satty,West,83.102,8.625,Consumer
+Max Engle,Central,798.4012,-174.256,Consumer
+Max Engle,East,155.94,45.2226,Consumer
+Max Engle,South,750.77,192.3873,Consumer
+Max Engle,West,203.342,14.4589,Consumer
+Max Jones,Central,895.92,421.0824,Consumer
+Max Jones,East,339.796,56.2188,Consumer
+Max Jones,South,175.32,-77.9315,Consumer
+Max Jones,West,4909.71,655.1832,Consumer
+Max Ludwig,Central,521.472,127.2507,Home Office
+Max Ludwig,East,674.304,86.6208,Home Office
+Max Ludwig,South,158.81,63.3456,Home Office
+Max Ludwig,West,717.328,132.2941,Home Office
+Maxwell Schwartz,Central,279.944,48.9902,Consumer
+Maxwell Schwartz,East,1033.48,88.5085,Consumer
+Maxwell Schwartz,South,37.44,18.564,Consumer
+Maxwell Schwartz,West,1793.814,124.7957,Consumer
+Maya Herman,Central,9.248,3.3524,Corporate
+Maya Herman,East,295.654,99.8931,Corporate
+Maya Herman,West,1898.876,135.3159,Corporate
+Meg O'Connel,Central,376.215,-107.4387,Home Office
+Meg O'Connel,East,311.912,17.5904,Home Office
+Meg O'Connel,South,830.24,238.1896,Home Office
+Meg O'Connel,West,168.66,21.0024,Home Office
+Meg Tillman,Central,34.048,11.0288,Consumer
+Meg Tillman,East,335.38,74.975,Consumer
+Meg Tillman,South,2503.47,421.2234,Consumer
+Meg Tillman,West,17.241,1.7796,Consumer
+Melanie Seite,Central,40.544,10.918,Consumer
+Melanie Seite,East,249.884,-20.258,Consumer
+Melanie Seite,West,79.92,28.7712,Consumer
+Michael Chen,Central,358.548,1.8465,Consumer
+Michael Chen,East,6.03,2.9547,Consumer
+Michael Chen,South,647.41,238.0796,Consumer
+Michael Chen,West,2793.726,455.5366,Consumer
+Michael Dominguez,Central,1023.904,-38.2472,Corporate
+Michael Dominguez,East,161.998,46.8789,Corporate
+Michael Dominguez,South,19.008,-12.672,Corporate
+Michael Grace,Central,807.789,-530.163,Home Office
+Michael Grace,East,207.48,62.244,Home Office
+Michael Grace,South,227.564,-2.8494,Home Office
+Michael Granlund,Central,8.736,-4.8048,Home Office
+Michael Granlund,East,416.23,134.7656,Home Office
+Michael Granlund,West,351.418,41.7764,Home Office
+Michael Kennedy,Central,841.248,-695.5944,Corporate
+Michael Kennedy,East,1179.27,311.3476,Corporate
+Michael Kennedy,South,238.978,-33.4161,Corporate
+Michael Kennedy,West,42.872,12.307,Corporate
+Michael Moore,Central,823.748,86.9514,Consumer
+Michael Moore,East,1113,-355.001,Consumer
+Michael Moore,South,1691.36,332.2496,Consumer
+Michael Moore,West,165.972,17.925,Consumer
+Michael Nguyen,Central,595.376,31.1684,Consumer
+Michael Nguyen,East,1153.602,319.3209,Consumer
+Michael Nguyen,South,728.968,-59.6666,Consumer
+Michael Oakman,Central,130.288,-79.3074,Consumer
+Michael Oakman,South,24,-2.7,Consumer
+Michael Paige,Central,2493.72,333.7187,Corporate
+Michael Paige,East,1217.106,328.5364,Corporate
+Michael Paige,South,272.816,-24.0988,Corporate
+Michael Stewart,Central,181.208,73.0318,Corporate
+Michael Stewart,East,673.908,-17.8058,Corporate
+Michelle Arnett,Central,196.33,91.4608,Home Office
+Michelle Arnett,East,191.646,31.941,Home Office
+Michelle Arnett,South,389.74,35.273,Home Office
+Michelle Arnett,West,1675.568,122.1074,Home Office
+Michelle Ellison,Central,5.184,1.8144,Corporate
+Michelle Ellison,East,51.168,-6.396,Corporate
+Michelle Ellison,West,1200.592,111.942,Corporate
+Michelle Huthwaite,Central,1.788,-3.0396,Consumer
+Michelle Huthwaite,East,63.882,10.647,Consumer
+Michelle Huthwaite,South,1630.43,378.1336,Consumer
+Michelle Huthwaite,West,1288.848,91.1622,Consumer
+Michelle Lonsdale,Central,67.21,13.5642,Corporate
+Michelle Lonsdale,West,674.872,125.152,Corporate
+Michelle Moray,Central,1241.413,-560.8247,Consumer
+Michelle Moray,East,754.356,118.4784,Consumer
+Michelle Moray,West,754.112,-77.998,Consumer
+Michelle Tran,Central,495.7248,-25.7288,Home Office
+Michelle Tran,West,823.725,2.0525,Home Office
+Mick Brown,Central,315.646,76.8848,Consumer
+Mick Brown,East,263.542,-26.4882,Consumer
+Mick Brown,South,817.829,57.6973,Consumer
+Mick Brown,West,31.214,9.7118,Consumer
+Mick Crebagga,Central,1111.11,-98.6952,Consumer
+Mick Crebagga,East,551,-61.9962,Consumer
+Mick Crebagga,West,556.87,96.5246,Consumer
+Mick Hernandez,Central,2656.137,146.0803,Home Office
+Mick Hernandez,East,1772.29,-349.5123,Home Office
+Mick Hernandez,South,1074.666,374.4066,Home Office
+Mike Caudle,East,33.48,3.9546,Corporate
+Mike Caudle,South,12.96,6.2208,Corporate
+Mike Caudle,West,1535.558,111.5811,Corporate
+Mike Gockenbach,Central,890.841,-152.7156,Consumer
+Mike Gockenbach,East,755.096,-137.481,Consumer
+Mike Gockenbach,South,91.032,-2.2758,Consumer
+Mike Gockenbach,West,1324.574,198.8694,Consumer
+Mike Kennedy,South,882.472,167.6606,Consumer
+Mike Kennedy,West,149.13,60.1732,Consumer
+Mike Pelletier,Central,2236.556,538.4056,Home Office
+Mike Pelletier,East,1739.292,-135.6846,Home Office
+Mike Pelletier,West,1112.072,-176.2681,Home Office
+Mike Vittorini,Central,272.42,14.0442,Consumer
+Mike Vittorini,East,76.3,27.8276,Consumer
+Mike Vittorini,South,863.928,86.3928,Consumer
+Mike Vittorini,West,521.926,145.5936,Consumer
+Mitch Gastineau,South,16.739,-1.2453,Corporate
+Mitch Webber,Central,503.13,136.4532,Consumer
+Mitch Webber,East,3799.386,1017.8842,Consumer
+Mitch Webber,West,1039.384,84.0846,Consumer
+Mitch Willingham,South,3333.9,1449.5187,Corporate
+Mitch Willingham,West,1919.976,215.9973,Corporate
+Monica Federle,Central,304.224,61.0262,Corporate
+Monica Federle,East,258.076,90.476,Corporate
+Monica Federle,South,1152.87,287.244,Corporate
+Monica Federle,West,43.13,18.1146,Corporate
+Muhammed Lee,South,10.272,1.1556,Consumer
+Muhammed Lee,West,151.96,41.5092,Consumer
+Muhammed MacIntyre,Central,361.856,80.7882,Corporate
+Muhammed MacIntyre,East,84.38,33.3634,Corporate
+Muhammed MacIntyre,South,70.954,-49.7106,Corporate
+Muhammed MacIntyre,West,258.224,-5.5494,Corporate
+Muhammed Yedwab,Central,1527.718,-273.8009,Corporate
+Muhammed Yedwab,East,2207.506,-108.633,Corporate
+Muhammed Yedwab,South,30.336,5.8836,Corporate
+Muhammed Yedwab,West,387.136,4.8392,Corporate
+Nancy Lomonaco,West,1418.09,343.6381,Home Office
+Naresj Patel,East,3385.614,800.0789,Consumer
+Naresj Patel,South,425.67,98.9298,Consumer
+Naresj Patel,West,1718.336,309.8803,Consumer
+Nat Carroll,Central,2337.748,554.0151,Consumer
+Nat Carroll,East,123.656,26.2924,Consumer
+Nat Gilpin,Central,508.62,219.0774,Corporate
+Nat Gilpin,East,1249.056,86.4997,Corporate
+Nat Gilpin,South,111.904,8.0564,Corporate
+Natalie DeCherney,Central,61.486,-56.7858,Consumer
+Natalie DeCherney,East,2006.298,353.659,Consumer
+Natalie DeCherney,South,673.072,130.9536,Consumer
+Natalie DeCherney,West,1585.283,-74.1813,Consumer
+Natalie Fritzler,Central,842.394,-65.7868,Consumer
+Natalie Fritzler,East,4863.55,-2057.333,Consumer
+Natalie Fritzler,South,2616.882,427.1484,Consumer
+Natalie Webber,Central,30.32,11.8248,Consumer
+Natalie Webber,East,3769.779,944.98,Consumer
+Natalie Webber,South,1918.79,506.9794,Consumer
+Natalie Webber,West,1515.125,-440.6612,Consumer
+Nathan Cano,Central,1747.23,-2332.5218,Consumer
+Nathan Cano,East,51.072,18.5136,Consumer
+Nathan Cano,South,305.248,79.1866,Consumer
+Nathan Cano,West,115.44,30.0144,Consumer
+Nathan Gelder,Central,1278.944,169.1027,Consumer
+Nathan Gelder,East,2.624,0.4264,Consumer
+Nathan Gelder,West,114.37,47.5602,Consumer
+Nathan Mautz,Central,1075.03,333.4982,Home Office
+Nathan Mautz,East,4821.292,2247.1904,Home Office
+Nathan Mautz,West,563.022,170.9963,Home Office
+Neil Ducich,East,1085.42,282.2092,Corporate
+Neil Ducich,South,1734.12,206.9549,Corporate
+Neil Ducich,West,73.915,-45.8273,Corporate
+Neil Französisch,Central,281.396,54.0582,Home Office
+Neil Französisch,South,91.056,31.8696,Home Office
+Neil Französisch,West,4.71,0,Home Office
+Neil Knudson,Central,74.352,23.235,Home Office
+Neil Knudson,East,313.84,32.829,Home Office
+Neil Knudson,South,17.856,2.0088,Home Office
+Neil Knudson,West,166,63.1449,Home Office
+Neola Schneider,Central,791.544,39.3611,Consumer
+Neola Schneider,East,1370.535,-143.0117,Consumer
+Neola Schneider,West,413.784,91.3466,Consumer
+Neoma Murray,Central,95.052,-41.2731,Consumer
+Neoma Murray,East,198.165,89.1276,Consumer
+Neoma Murray,West,1868.762,741.098,Consumer
+Nick Crebassa,Central,58.416,16.7946,Corporate
+Nick Crebassa,East,31.74,15.4812,Corporate
+Nick Crebassa,South,1417.35,575.9101,Corporate
+Nick Crebassa,West,6734.233,706.5721,Corporate
+Nick Radford,Central,635.679,-319.7925,Consumer
+Nick Radford,East,436.96,160.6086,Consumer
+Nick Radford,South,1111.698,48.0533,Consumer
+Nick Radford,West,182.94,85.9818,Consumer
+Nick Zandusky,Central,1037.336,255.5804,Home Office
+Nick Zandusky,East,440.494,4.429,Home Office
+Nick Zandusky,West,1010.48,142.4142,Home Office
+Nicole Brennan,East,143.952,14.3952,Corporate
+Nicole Brennan,South,129.92,10.3936,Corporate
+Nicole Fjeld,Central,73.008,26.4654,Home Office
+Nicole Fjeld,East,302.48,73.7911,Home Office
+Nicole Fjeld,West,1655.984,287.9566,Home Office
+Nicole Hansen,Central,785.026,218.7966,Corporate
+Nicole Hansen,East,154.624,33.2,Corporate
+Nicole Hansen,South,1312.22,384.5254,Corporate
+Nicole Hansen,West,421.42,123.6446,Corporate
+Noah Childs,Central,965.852,107.4584,Corporate
+Noah Childs,East,103.48,-5.2794,Corporate
+Noah Childs,West,752.41,-461.2,Corporate
+Noel Staavos,Central,614.488,-168.3582,Corporate
+Noel Staavos,East,1437.286,-208.7206,Corporate
+Noel Staavos,South,101.871,-7.1214,Corporate
+Noel Staavos,West,811.178,149.4288,Corporate
+Nona Balk,Central,528.768,89.0301,Corporate
+Nona Balk,East,747.186,59.3529,Corporate
+Nona Balk,South,452.405,-150.0837,Corporate
+Nona Balk,West,244.24,119.3436,Corporate
+Nora Paige,Central,1055.21,269.8413,Consumer
+Nora Paige,East,2258.28,160.4214,Consumer
+Nora Paige,West,594.912,84.3375,Consumer
+Nora Pelletier,Central,999.98,449.991,Home Office
+Nora Pelletier,East,98.96,31.4218,Home Office
+Nora Pelletier,South,7.38,-5.412,Home Office
+Nora Pelletier,West,122.378,38.5009,Home Office
+Nora Preis,Central,274.096,23.5416,Consumer
+Nora Preis,East,2064.488,239.9774,Consumer
+Nora Preis,West,5564.5985,367.7092,Consumer
+Odella Nelson,Central,110.808,-17.0116,Corporate
+Odella Nelson,East,469.888,169.6504,Corporate
+Odella Nelson,South,696.64,-191.6894,Corporate
+Odella Nelson,West,290.184,33.1616,Corporate
+Olvera Toch,Central,180.96,81.432,Consumer
+Olvera Toch,East,1556.694,-990.543,Consumer
+Olvera Toch,South,608.43,173.8755,Consumer
+Olvera Toch,West,1472.54,-189.8848,Consumer
+Pamela Coakley,East,1605.048,207.1008,Corporate
+Pamela Coakley,West,227.016,65.5842,Corporate
+Pamela Stobb,Central,646.7,-101.2144,Consumer
+Pamela Stobb,East,953.107,-101.8201,Consumer
+Pamela Stobb,West,581.672,68.5935,Consumer
+Parhena Norris,Central,563.94,112.788,Home Office
+Parhena Norris,East,162.7,52.542,Home Office
+Parhena Norris,South,721.36,20.2458,Home Office
+Parhena Norris,West,19.152,6.4638,Home Office
+Patricia Hirasaki,South,729.648,47.8878,Home Office
+Patrick Bzostek,West,740.356,229.2257,Home Office
+Patrick Gardner,Central,401.124,-542.5916,Consumer
+Patrick Gardner,East,1151.222,429.4852,Consumer
+Patrick Gardner,South,362.283,34.0095,Consumer
+Patrick Gardner,West,1172.278,216.5582,Consumer
+Patrick Jones,Central,47.264,17.1332,Corporate
+Patrick Jones,East,134.5,42.866,Corporate
+Patrick Jones,South,900.822,356.2455,Corporate
+Patrick Jones,West,137.504,25.8908,Corporate
+Patrick O'Brill,Central,1264.9302,-71.0124,Consumer
+Patrick O'Brill,East,1269.87,-316.8514,Consumer
+Patrick O'Brill,South,4732.336,414.6984,Consumer
+Patrick O'Brill,West,206.692,11.6411,Consumer
+Patrick O'Donnell,Central,550.82,165.0194,Consumer
+Patrick O'Donnell,East,705.282,115.9173,Consumer
+Patrick O'Donnell,South,301.96,33.2156,Consumer
+Patrick O'Donnell,West,935.152,123.701,Consumer
+Patrick Ryan,Central,158.376,13.8579,Consumer
+Patrick Ryan,South,153.872,26.4166,Consumer
+Patrick Ryan,West,1527.93,207.3481,Consumer
+Paul Gonzalez,Central,251.166,-60.9759,Consumer
+Paul Gonzalez,East,500.144,66.3484,Consumer
+Paul Gonzalez,South,718.22,192.4628,Consumer
+Paul Gonzalez,West,517.634,136.681,Consumer
+Paul Knutson,East,1422.252,-807.777,Home Office
+Paul Knutson,West,18.9,9.072,Home Office
+Paul Lucas,Central,16.52,2.065,Home Office
+Paul Lucas,East,134.391,-44.4388,Home Office
+Paul Lucas,West,88.57,41.6211,Home Office
+Paul MacIntyre,Central,348.542,-0.6522,Consumer
+Paul MacIntyre,South,1056.86,158.529,Consumer
+Paul Prost,Central,865,220.951,Home Office
+Paul Prost,East,1542.348,151.0035,Home Office
+Paul Prost,South,2475.04,715.6931,Home Office
+Paul Prost,West,2370.22,407.4378,Home Office
+Paul Stevenson,Central,249.555,-3.1973,Home Office
+Paul Stevenson,East,27.98,12.0314,Home Office
+Paul Stevenson,South,89.36,40.5616,Home Office
+Paul Stevenson,West,911.744,149.1142,Home Office
+Paul Van Hugh,Central,1044.486,132.7292,Home Office
+Paul Van Hugh,East,90.6,36.67,Home Office
+Paul Van Hugh,West,1740.96,265.1292,Home Office
+Pauline Chand,West,1061.488,-184.3364,Home Office
+Pauline Johnson,East,246.56,84.4789,Consumer
+Pauline Johnson,South,13.424,3.1124,Consumer
+Pauline Johnson,West,1564.25,595.4066,Consumer
+Pauline Webber,Central,115.84,54.4448,Corporate
+Pauline Webber,East,1589.102,421.4954,Corporate
+Pauline Webber,South,78.144,14.3776,Corporate
+Pauline Webber,West,1671.83,313.4991,Corporate
+Penelope Sewall,Central,79.36,20.6336,Home Office
+Penelope Sewall,East,123.06,40.7558,Home Office
+Penelope Sewall,South,3268.362,625.0343,Home Office
+Penelope Sewall,West,3372.852,1056.306,Home Office
+Pete Armstrong,Central,658.528,203.3036,Home Office
+Pete Armstrong,South,3.744,-2.6208,Home Office
+Pete Armstrong,West,67.136,25.176,Home Office
+Pete Kriz,Central,1325.4,154.4925,Consumer
+Pete Kriz,East,5073.002,1715.3135,Consumer
+Pete Kriz,South,182.136,59.5796,Consumer
+Pete Kriz,West,2066.396,108.882,Consumer
+Pete Takahito,Central,100.748,-28.9312,Consumer
+Pete Takahito,South,59.824,8.8804,Consumer
+Peter Bühler,Central,616.648,204.9708,Consumer
+Peter Bühler,East,40.776,0.5097,Consumer
+Peter Bühler,South,30.9,12.6792,Consumer
+Peter Fuller,Central,847.2,-1133.2884,Consumer
+Peter Fuller,East,7678.228,543.2819,Consumer
+Peter Fuller,South,40.54,17.6846,Consumer
+Peter Fuller,West,496.896,-41.9724,Consumer
+Peter McVee,Central,91.544,30.3466,Home Office
+Peter McVee,East,3332.974,426.8139,Home Office
+Peter McVee,South,691.144,69.5932,Home Office
+Philip Brown,East,31.268,13.951,Consumer
+Philip Brown,South,23.472,7.6284,Consumer
+Philip Brown,West,1402.21,259.0812,Consumer
+Philip Fox,Central,617.7,-407.682,Consumer
+Philip Fox,East,50,12,Consumer
+Philip Fox,South,1302.83,301.0897,Consumer
+Philip Fox,West,799.47,291.4662,Consumer
+Philisse Overcash,Central,3910.585,926.3321,Home Office
+Philisse Overcash,East,673.21,178.8871,Home Office
+Philisse Overcash,West,309.248,50.2139,Home Office
+Phillina Ober,Central,288.06,-65.9901,Home Office
+Phillina Ober,East,764.494,14.729,Home Office
+Phillina Ober,West,4.304,1.5602,Home Office
+Phillip Breyer,Central,69.93,0.6993,Corporate
+Phillip Breyer,East,62.808,21.1977,Corporate
+Phillip Flathmann,South,135.95,39.4255,Consumer
+Phillip Flathmann,West,2070.178,551.8863,Consumer
+Pierre Wener,Central,408.422,-5.8346,Consumer
+Pierre Wener,East,2970.492,1414.004,Consumer
+Pierre Wener,South,2.214,-1.476,Consumer
+Pierre Wener,West,541.287,-116.3394,Consumer
+Quincy Jones,Central,332.598,84.4062,Corporate
+Quincy Jones,East,5432.98,955.9102,Corporate
+Quincy Jones,South,342.76,163.3604,Corporate
+Rachel Payne,Central,467.6532,-91.2163,Corporate
+Rachel Payne,West,486.992,150.7547,Corporate
+Ralph Arnett,Central,18.26,-0.6356,Consumer
+Ralph Arnett,East,579.296,97.8777,Consumer
+Ralph Arnett,South,78.456,-9.9809,Consumer
+Ralph Arnett,West,1941.894,458.827,Consumer
+Ralph Kennedy,Central,1238.33,279.5512,Consumer
+Ralph Kennedy,East,221.862,-9.8632,Consumer
+Ralph Ritter,Central,608.552,-77.3036,Consumer
+Ralph Ritter,West,7.38,3.4686,Consumer
+Randy Bradley,Central,337.818,-74.3062,Consumer
+Randy Bradley,East,670.378,-90.1,Consumer
+Randy Ferguson,Central,11.952,3.8844,Corporate
+Randy Ferguson,East,245.212,93.9814,Corporate
+Randy Ferguson,South,2958.812,532.3161,Corporate
+Randy Ferguson,West,93.174,3.5253,Corporate
+Raymond Buch,Central,20.23,9.5081,Consumer
+Raymond Buch,East,691.348,153.265,Consumer
+Raymond Buch,South,60.485,6.2349,Consumer
+Raymond Buch,West,14345.276,6807.0879,Consumer
+Raymond Messe,Central,46.864,7.6154,Consumer
+Raymond Messe,East,658.58,202.522,Consumer
+Raymond Messe,South,532.38,108.6915,Consumer
+Raymond Messe,West,215.65,73.321,Consumer
+Resi Pölking,Central,2860.108,676.7721,Consumer
+Resi Pölking,East,773.538,280.2617,Consumer
+Resi Pölking,West,1519.438,-491.7835,Consumer
+Ricardo Emerson,East,48.36,6.045,Consumer
+Ricardo Sperren,East,1230.43,324.932,Corporate
+Ricardo Sperren,South,1065.84,213.7332,Corporate
+Ricardo Sperren,West,925.02,94.7862,Corporate
+Richard Bierner,Central,144.574,-41.6403,Consumer
+Richard Bierner,East,919.188,271.0891,Consumer
+Richard Bierner,South,22.96,6.6584,Consumer
+Richard Bierner,West,1576.364,241.1327,Consumer
+Richard Eichhorn,Central,672.596,148.7926,Consumer
+Richard Eichhorn,East,29.61,13.3245,Consumer
+Richard Eichhorn,West,174.49,47.1123,Consumer
+Rick Bensley,Central,1893.406,499.1323,Home Office
+Rick Bensley,East,1039.592,-239.7855,Home Office
+Rick Bensley,South,270.728,51.4377,Home Office
+Rick Bensley,West,1511.74,329.7621,Home Office
+Rick Duston,Central,162.39,74.6055,Consumer
+Rick Duston,East,1745.36,109.524,Consumer
+Rick Duston,West,2365.18,296.4645,Consumer
+Rick Hansen,Central,20.16,9.8784,Consumer
+Rick Hansen,East,3491.712,515.5829,Consumer
+Rick Hansen,South,20.736,7.2576,Consumer
+Rick Hansen,West,88.768,31.0688,Consumer
+Rick Huthwaite,Central,273.96,10.9584,Home Office
+Rick Huthwaite,East,2545.12,757.561,Home Office
+Rick Huthwaite,West,4160.1,520.9341,Home Office
+Rick Reed,Central,373.94,99.9364,Corporate
+Rick Reed,East,2584.73,589.2463,Corporate
+Rick Reed,South,343.592,32.4999,Corporate
+Rick Wilson,Central,2049.534,568.1281,Corporate
+Rick Wilson,West,5347.867,1018.4992,Corporate
+Ritsa Hightower,South,740.382,0.3057,Consumer
+Rob Beeghly,Central,428.818,42.9825,Consumer
+Rob Beeghly,South,29.664,8.0316,Consumer
+Rob Beeghly,West,70.064,25.8738,Consumer
+Rob Dowd,Central,481.368,163.762,Consumer
+Rob Dowd,East,85.21,31.1976,Consumer
+Rob Dowd,South,1325.18,378.2516,Consumer
+Rob Dowd,West,1021.136,161.3046,Consumer
+Rob Haberlin,Central,1305.81,-39.8683,Consumer
+Rob Haberlin,South,779.93,212.4944,Consumer
+Rob Lucas,Central,3172.707,92.0308,Consumer
+Rob Lucas,East,1344.838,-62.2895,Consumer
+Rob Lucas,South,1232.244,368.9707,Consumer
+Rob Lucas,West,485.121,89.4364,Consumer
+Rob Williams,Central,476.548,154.0211,Corporate
+Rob Williams,East,65.99,17.1574,Corporate
+Rob Williams,West,2737.208,527.654,Corporate
+Robert Barroso,South,104.648,33.3052,Corporate
+Robert Barroso,West,116.436,39.3738,Corporate
+Robert Dilbeck,Central,2275.1,903.8148,Home Office
+Robert Dilbeck,East,16.52,5.369,Home Office
+Robert Dilbeck,West,495.012,-73.4118,Home Office
+Robert Marley,East,415.054,123.769,Home Office
+Robert Marley,South,682.91,180.2656,Home Office
+Robert Marley,West,4881.132,1598.5092,Home Office
+Robert Waldorf,Central,1092.1,261.2921,Consumer
+Robert Waldorf,East,1958.544,316.5442,Consumer
+Robert Waldorf,South,3.282,-2.6256,Consumer
+Robert Waldorf,West,441.72,132.3396,Consumer
+Roger Barcio,Central,275.058,-90.3762,Home Office
+Roger Barcio,East,1786.71,337.2397,Home Office
+Roger Barcio,West,5.682,-3.788,Home Office
+Roger Demir,Central,222.976,38.2722,Consumer
+Roger Demir,East,435.248,97.9882,Consumer
+Roger Demir,South,78.192,23.8458,Consumer
+Roger Demir,West,683.321,47.2242,Consumer
+Roland Fjeld,Central,1571.366,427.2603,Consumer
+Roland Fjeld,East,21.93,10.3071,Consumer
+Roland Fjeld,South,62.91,22.6476,Consumer
+Roland Fjeld,West,685.09,251.4018,Consumer
+Roland Murray,East,98.35,28.6879,Consumer
+Roland Schwarz,Central,0.556,-0.9452,Corporate
+Roland Schwarz,East,1006.122,346.6146,Corporate
+Roland Schwarz,South,1176.572,425.9664,Corporate
+Roland Schwarz,West,1976.52,434.7493,Corporate
+Rose O'Brian,Central,1772.306,-174.099,Consumer
+Rose O'Brian,South,1998.84,-1097.8584,Consumer
+Rose O'Brian,West,44.332,9.3858,Consumer
+Ross Baird,Central,15.28,7.4872,Home Office
+Ross Baird,East,3655.112,-562.065,Home Office
+Ross Baird,South,1718.67,-5.7406,Home Office
+Ross Baird,West,244.254,98.5852,Home Office
+Ross DeVincentis,Central,680.536,166.8577,Home Office
+Ross DeVincentis,East,82.96,32.2112,Home Office
+Ross DeVincentis,South,227.3,45.9836,Home Office
+Ross DeVincentis,West,146.82,73.41,Home Office
+Roy Collins,Central,328.224,28.7196,Consumer
+Roy Collins,East,181.797,-15.5826,Consumer
+Roy Collins,South,35.3,12.1394,Consumer
+Roy Collins,West,421.088,38.715,Consumer
+Roy Französisch,Central,49.632,4.9632,Consumer
+Roy Französisch,East,55.98,-0.2947,Consumer
+Roy Französisch,South,399.45,136.7672,Consumer
+Roy Französisch,West,440.16,138.5904,Consumer
+Roy Phan,Central,1543.87,456.3275,Corporate
+Roy Phan,South,145.33,32.7472,Corporate
+Roy Phan,West,481.516,105.5121,Corporate
+Roy Skaria,Central,12.68,6.0864,Home Office
+Roy Skaria,East,9.648,3.4974,Home Office
+Ruben Ausman,South,2529.228,862.5975,Corporate
+Ruben Ausman,West,1303.086,430.2681,Corporate
+Ruben Dartt,Central,898.56,72.5958,Consumer
+Ruben Dartt,East,47.496,-1.1874,Consumer
+Ruben Dartt,West,2187.868,384.1208,Consumer
+Russell Applegate,Central,1943.754,-148.6196,Consumer
+Russell Applegate,East,48.94,24.47,Consumer
+Russell Applegate,South,487.22,115.4659,Consumer
+Russell Applegate,West,2313.629,313.551,Consumer
+Russell D'Ascenzo,Central,346.982,-3.9401,Consumer
+Russell D'Ascenzo,West,623.96,38.9975,Consumer
+Ryan Akin,Central,321.39,-72.5666,Consumer
+Ryan Akin,East,25.488,4.4604,Consumer
+Ryan Akin,South,709.0425,-436.7431,Consumer
+Ryan Akin,West,631.002,59.1543,Consumer
+Ryan Crowe,Central,233.108,77.7518,Consumer
+Ryan Crowe,East,289.226,92.9025,Consumer
+Ryan Crowe,South,34.504,6.0382,Consumer
+Ryan Crowe,West,328.914,-166.1292,Consumer
+Sally Hughsby,Central,993.886,254.7182,Corporate
+Sally Hughsby,East,70.216,24.2071,Corporate
+Sally Hughsby,South,104.712,10.1817,Corporate
+Sally Hughsby,West,2238.0255,269.367,Corporate
+Sally Knutson,East,883.409,168.7933,Consumer
+Sally Matthias,Central,77.488,-89.9808,Consumer
+Sally Matthias,East,143.534,54.5861,Consumer
+Sally Matthias,West,23.472,8.802,Consumer
+Sam Craven,Central,2785.3796,-360.3696,Consumer
+Sam Craven,East,577.584,43.3188,Consumer
+Sam Zeldin,Central,2368.723,256.6897,Home Office
+Sam Zeldin,East,459.408,-25.571,Home Office
+Sam Zeldin,West,797.198,135.3116,Home Office
+Sample Company A,Central,400.98,59.9775,Home Office
+Sample Company A,East,22.2,9.102,Home Office
+Sample Company A,South,420.412,27.7416,Home Office
+Sample Company A,West,3780.98,914.9232,Home Office
+Sandra Flanagan,Central,45.04,4.504,Consumer
+Sandra Flanagan,East,638.882,208.7099,Consumer
+Sandra Flanagan,South,48.064,4.5336,Consumer
+Sandra Flanagan,West,31.56,10.4148,Consumer
+Sandra Glassco,Central,839.43,218.2518,Consumer
+Sandra Glassco,West,2567.151,352.1862,Consumer
+Sanjit Chand,Central,9900.19,4668.6935,Consumer
+Sanjit Chand,East,12.7,5.842,Consumer
+Sanjit Chand,South,1809.532,845.5034,Consumer
+Sanjit Chand,West,2419.912,237.373,Consumer
+Sanjit Engle,Central,621.558,-308.1378,Consumer
+Sanjit Engle,East,513.73,159.3106,Consumer
+Sanjit Engle,South,8805.04,2825.2862,Consumer
+Sanjit Engle,West,2269.11,-25.7821,Consumer
+Sanjit Jacobs,Central,1977.47,-4.3344,Home Office
+Sanjit Jacobs,East,40.69,19.5983,Home Office
+Sanjit Jacobs,South,1596.984,62.7452,Home Office
+Sanjit Jacobs,West,334.512,66.1098,Home Office
+Saphhira Shifley,Central,56.28,-87.0136,Corporate
+Saphhira Shifley,East,84.04,22.2604,Corporate
+Saphhira Shifley,South,1023.886,356.154,Corporate
+Saphhira Shifley,West,159.822,40.9479,Corporate
+Sara Luxemburg,Central,1743.598,370.7768,Home Office
+Sara Luxemburg,East,72.51,20.2782,Home Office
+Sara Luxemburg,South,1234.68,136.3605,Home Office
+Sara Luxemburg,West,2.224,0.556,Home Office
+Sarah Bern,Central,38.572,-33.3918,Consumer
+Sarah Bern,East,954.548,173.3126,Consumer
+Sarah Bern,West,354.9,17.745,Consumer
+Sarah Brown,Central,1988.078,414.0737,Consumer
+Sarah Brown,East,469.404,27.2416,Consumer
+Sarah Brown,West,3953.514,444.1471,Consumer
+Sarah Foster,Central,291.85,81.1111,Consumer
+Sarah Foster,East,170.638,-109.116,Consumer
+Sarah Foster,West,2960.298,314.9095,Consumer
+Sarah Jordon,Central,886.2,-17.3903,Consumer
+Sarah Jordon,South,80.564,-12.0292,Consumer
+Sarah Jordon,West,374.272,5.9058,Consumer
+Scot Coram,Central,911.256,111.5262,Corporate
+Scot Coram,East,105.52,48.5392,Corporate
+Scot Coram,West,3355.182,280.0756,Corporate
+Scot Wooten,Central,239.358,-47.8716,Consumer
+Scot Wooten,East,237.156,-37.9302,Consumer
+Scot Wooten,South,428.704,-16.3402,Consumer
+Scot Wooten,West,179.86,82.5358,Consumer
+Scott Cohen,Central,65.028,-110.401,Corporate
+Scott Cohen,East,919.848,293.0316,Corporate
+Scott Cohen,South,79.96,27.986,Corporate
+Scott Cohen,West,2664.957,460.3868,Corporate
+Scott Williamson,Central,22.38,10.7424,Consumer
+Scott Williamson,East,912.99,233.0897,Consumer
+Scott Williamson,South,173.8,43.45,Consumer
+Scott Williamson,West,857.48,45.5904,Consumer
+Sean Braxton,Central,5579.94,-761.9928,Corporate
+Sean Braxton,East,1368.121,-1478.5563,Corporate
+Sean Braxton,South,843.97,78.046,Corporate
+Sean Braxton,West,265.86,79.758,Corporate
+Sean Christensen,Central,668.516,220.9308,Consumer
+Sean Christensen,East,422.909,-28.9195,Consumer
+Sean Christensen,West,2887.64,37.1504,Consumer
+Sean Miller,Central,526.45,31.587,Home Office
+Sean Miller,East,837.444,-230.1632,Home Office
+Sean Miller,South,23669.196,-1787.0435,Home Office
+Sean Miller,West,9.96,4.8804,Home Office
+Sean O'Donnell,East,794.574,98.1968,Consumer
+Sean O'Donnell,South,1438.9295,-319.3544,Consumer
+Sean O'Donnell,West,369.072,140.0718,Consumer
+Sean Wendt,Central,552.23,146.0883,Home Office
+Sean Wendt,East,466.814,-50.25,Home Office
+Seth Vernon,Central,1190.53,-222.016,Consumer
+Seth Vernon,East,9216.568,1356.8781,Consumer
+Seth Vernon,South,161.14,30.7104,Consumer
+Seth Vernon,West,902.712,33.8517,Consumer
+Shahid Collister,Central,589.818,-86.1561,Consumer
+Shahid Collister,East,538.07,153.4789,Consumer
+Shahid Collister,South,4646.356,83.6416,Consumer
+Shahid Collister,West,218.292,85.6971,Consumer
+Shahid Hopkins,East,370.851,105.674,Consumer
+Shahid Hopkins,South,1400.563,-360.6619,Consumer
+Shahid Hopkins,West,409.304,110.465,Consumer
+Shahid Shariari,Central,677.433,-720.9642,Consumer
+Shahid Shariari,East,1363.674,-504.2467,Consumer
+Shahid Shariari,South,212.66,58.913,Consumer
+Shahid Shariari,West,803.04,155.3241,Consumer
+Sharelle Roach,Central,212.94,57.4938,Home Office
+Sharelle Roach,East,265.272,-2.5436,Home Office
+Sharelle Roach,South,141.96,35.49,Home Office
+Sharelle Roach,West,2613.309,-3424.3546,Home Office
+Shaun Chance,East,562.544,21.6562,Corporate
+Shaun Chance,West,1312.454,357.9049,Corporate
+Shaun Weien,East,1217.568,456.588,Consumer
+Shaun Weien,South,290.504,120.8722,Consumer
+Shaun Weien,West,1413.472,216.1946,Consumer
+Sheri Gordon,East,1189.332,-281.7213,Consumer
+Sheri Gordon,South,485.504,134.3811,Consumer
+Sheri Gordon,West,209.962,28.3297,Consumer
+Shirley Daniels,Central,4724.42,1841.582,Home Office
+Shirley Daniels,East,405.212,34.5112,Home Office
+Shirley Daniels,South,944.61,105.5586,Home Office
+Shirley Daniels,West,46.872,3.5154,Home Office
+Shirley Jackson,Central,97.264,-243.16,Consumer
+Shirley Jackson,East,968.4,253.8168,Consumer
+Shirley Jackson,West,253.112,57.4395,Consumer
+Shirley Schmidt,Central,47.97,14.8707,Home Office
+Shirley Schmidt,East,39.48,11.0544,Home Office
+Shirley Schmidt,South,525.95,174.0094,Home Office
+Shui Tom,Central,16.176,6.066,Consumer
+Shui Tom,East,286.842,48.1734,Consumer
+Shui Tom,South,73.056,27.9072,Consumer
+Shui Tom,West,57.266,2.2953,Consumer
+Sibella Parks,Central,212.716,-202.5708,Corporate
+Sibella Parks,East,1093.37,83.7951,Corporate
+Skye Norling,Central,1310.564,-914.8853,Home Office
+Skye Norling,East,399.49,163.888,Home Office
+Skye Norling,West,150.364,34.1408,Home Office
+Sonia Cooley,Central,650.136,28.4888,Consumer
+Sonia Cooley,East,102.93,48.3771,Consumer
+Sonia Cooley,South,50.462,-2.4326,Consumer
+Sonia Cooley,West,99.2,25.792,Consumer
+Sonia Sunley,Central,46.4,21.2456,Consumer
+Sonia Sunley,West,372.09,114.2945,Consumer
+Speros Goranitis,Central,378.06,34.1499,Consumer
+Speros Goranitis,East,2622.882,403.6594,Consumer
+Speros Goranitis,South,15.92,2.786,Consumer
+Speros Goranitis,West,107.97,22.6737,Consumer
+Stefania Perrino,Central,609.614,63.2508,Corporate
+Stefania Perrino,East,3150.551,-162.8194,Corporate
+Stefania Perrino,South,2.896,0.9774,Corporate
+Stefania Perrino,West,1677.258,-171.837,Corporate
+Stefanie Holloman,South,692.472,190.4298,Corporate
+Stefanie Holloman,West,1403.92,70.196,Corporate
+Stephanie Phelps,Central,333.766,62.4483,Corporate
+Stephanie Phelps,East,938.994,-13.0157,Corporate
+Stephanie Phelps,South,39.072,9.768,Corporate
+Stephanie Phelps,West,560.604,209.2776,Corporate
+Stephanie Ulpright,Central,1520.914,424.5663,Home Office
+Stephanie Ulpright,East,136.43,53.9888,Home Office
+Stephanie Ulpright,South,722.044,287.6165,Home Office
+Stephanie Ulpright,West,215.976,-2.6997,Home Office
+Steve Carroll,Central,952.3,276.7632,Home Office
+Steve Carroll,South,71.98,15.1158,Home Office
+Steve Carroll,West,230.36,78.2788,Home Office
+Steve Chapman,Central,1937.608,539.0449,Corporate
+Steve Chapman,East,73.536,9.192,Corporate
+Steve Chapman,South,565.264,63.5922,Corporate
+Steve Nguyen,Central,1813.5292,2.1816,Home Office
+Steve Nguyen,South,612.14,268.482,Home Office
+Steve Nguyen,West,702.29,211.0863,Home Office
+Steven Cartwright,Central,1841.812,374.0263,Consumer
+Steven Cartwright,East,747.574,236.1017,Consumer
+Steven Cartwright,West,2636.824,666.5233,Consumer
+Steven Roelle,Central,318.872,110.9218,Home Office
+Steven Roelle,East,3904.68,1863.9614,Home Office
+Steven Roelle,South,47.79,16.2486,Home Office
+Steven Roelle,West,74.544,-0.7074,Home Office
+Steven Ward,East,663.964,48.5239,Corporate
+Steven Ward,West,94.732,19.7177,Corporate
+Stewart Carmichael,Central,769.09,-84.6347,Corporate
+Stewart Carmichael,East,3015.661,-839.2616,Corporate
+Stewart Carmichael,South,224.9,64.2384,Corporate
+Stewart Carmichael,West,483.006,188.4705,Corporate
+Stewart Visinsky,Central,32.4,15.552,Consumer
+Stewart Visinsky,East,1809.118,167.6545,Consumer
+Stewart Visinsky,South,668.851,198.498,Consumer
+Stewart Visinsky,West,1594.936,103.3227,Consumer
+Stuart Calhoun,Central,208.696,41.4596,Consumer
+Stuart Calhoun,South,66.3,8.619,Consumer
+Stuart Calhoun,West,4.26,1.7466,Consumer
+Stuart Van,Central,1228.402,184.205,Corporate
+Stuart Van,South,31.008,11.2404,Corporate
+Stuart Van,West,11.68,4.2048,Corporate
+Sue Ann Reed,Central,2743.008,344.199,Consumer
+Sue Ann Reed,East,21.93,10.3071,Consumer
+Sue Ann Reed,South,1013.6895,177.7046,Consumer
+Sue Ann Reed,West,988.714,77.9389,Consumer
+Sung Chung,Central,14.112,1.2348,Consumer
+Sung Chung,West,266.52,29.9409,Consumer
+Sung Pak,Central,91.528,11.2962,Corporate
+Sung Pak,East,967.462,-91.0838,Corporate
+Sung Pak,South,294.808,18.0586,Corporate
+Sung Pak,West,2929.142,628.4516,Corporate
+Sung Shariari,Central,114.84,-1.9188,Consumer
+Sung Shariari,East,428.984,2.5882,Consumer
+Sung Shariari,South,377.902,-91.074,Consumer
+Sung Shariari,West,42.91,14.8186,Consumer
+Susan Gilcrest,Central,37.446,-6.6473,Corporate
+Susan Gilcrest,East,10.5,2.94,Corporate
+Susan MacKendrick,East,1043.041,-237.2885,Consumer
+Susan Pistek,Central,23.992,-62.3792,Consumer
+Susan Pistek,East,3903.137,48.7816,Consumer
+Susan Pistek,West,63.56,28.29,Consumer
+Susan Vittorini,Central,15.576,3.3099,Consumer
+Susan Vittorini,East,1145.525,78.1028,Consumer
+Susan Vittorini,West,742.39,25.4785,Consumer
+Suzanne McNair,Central,880.036,396.7798,Corporate
+Suzanne McNair,East,4454.268,123.7844,Corporate
+Suzanne McNair,South,17.616,-14.0928,Corporate
+Suzanne McNair,West,211.472,75.1028,Corporate
+Sylvia Foulston,Central,1786.658,431.0732,Corporate
+Sylvia Foulston,East,109.597,26.3945,Corporate
+Sylvia Foulston,West,1440.28,82.4675,Corporate
+Tamara Chand,Central,18437.138,8745.0635,Corporate
+Tamara Chand,East,85.848,37.7204,Corporate
+Tamara Chand,South,521.92,195.9808,Corporate
+Tamara Chand,West,7.312,2.5592,Corporate
+Tamara Dahlen,Central,108.184,-31.8815,Consumer
+Tamara Dahlen,East,124.028,41.3764,Consumer
+Tamara Dahlen,South,34.2,9.234,Consumer
+Tamara Dahlen,West,1168.136,69.4608,Consumer
+Tamara Manning,Central,161.01,54.1382,Consumer
+Tamara Manning,East,193.26,44.7494,Consumer
+Tamara Manning,South,47.79,16.2486,Consumer
+Tamara Manning,West,2553.166,458.1651,Consumer
+Tamara Willingham,East,303.192,103.3155,Home Office
+Tamara Willingham,South,67.96,12.2328,Home Office
+Tamara Willingham,West,4907.674,621.8422,Home Office
+Tanja Norvell,Central,286.4,25.06,Home Office
+Tanja Norvell,East,559.93,167.979,Home Office
+Tanja Norvell,South,431.976,-75.5958,Home Office
+Tanja Norvell,West,1851.915,-809.4884,Home Office
+Ted Butterfield,East,1467.881,390.2113,Consumer
+Ted Trevino,East,841.486,214.6521,Consumer
+Ted Trevino,South,746.858,179.7181,Consumer
+Ted Trevino,West,3327.258,357.5865,Consumer
+Thais Sissman,South,2.808,-1.9656,Consumer
+Thais Sissman,West,2.025,-1.35,Consumer
+Thea Hendricks,East,1537.544,-240.7248,Consumer
+Thea Hendricks,South,27.86,9.1938,Consumer
+Thea Hendricks,West,857.42,96.3185,Consumer
+Thea Hudgings,Central,2027.188,-82.8626,Corporate
+Thea Hudgings,East,915.584,-169.6913,Corporate
+Theone Pippenger,Central,2861.756,751.5518,Consumer
+Theone Pippenger,East,11.632,1.0178,Consumer
+Theone Pippenger,South,1545.46,373.9159,Consumer
+Theone Pippenger,West,35.208,2.6406,Consumer
+Theresa Coyne,East,1038.26,265.5332,Corporate
+Theresa Swint,Central,250.48,28.3708,Corporate
+Theresa Swint,East,956.204,-168.7593,Corporate
+Theresa Swint,South,896.31,381.6627,Corporate
+Theresa Swint,West,60.63,19.6002,Corporate
+Thomas Boland,Central,60.416,6.0416,Corporate
+Thomas Boland,East,46.002,17.8854,Corporate
+Thomas Boland,South,3482.878,805.2365,Corporate
+Thomas Brumley,East,767.214,161.9674,Home Office
+Thomas Brumley,South,6.24,3.0576,Home Office
+Thomas Brumley,West,42.72,13.9788,Home Office
+Thomas Seio,Central,28.836,-50.052,Corporate
+Thomas Seio,East,87.54,37.6422,Corporate
+Thomas Seio,South,2959.056,282.4949,Corporate
+Thomas Seio,West,2295.658,592.8026,Corporate
+Thomas Thornton,Central,629.596,30.6809,Consumer
+Thomas Thornton,East,58.116,22.8558,Consumer
+Thomas Thornton,South,182.91,53.0439,Consumer
+Thomas Thornton,West,556.422,172.1565,Consumer
+Tiffany House,Central,600.825,24.1593,Corporate
+Tiffany House,East,146.188,2.9796,Corporate
+Tiffany House,West,275.188,65.5901,Corporate
+Tim Brockman,Central,159.86,-26.955,Consumer
+Tim Brockman,East,655.88,314.1048,Consumer
+Tim Brockman,West,786.636,-26.5343,Consumer
+Tim Taslimi,Central,54.96,15.9384,Corporate
+Tim Taslimi,East,61.44,16.5888,Corporate
+Tim Taslimi,West,323.1,61.389,Corporate
+Toby Braunhardt,Central,1287.45,244.6155,Consumer
+Toby Braunhardt,East,806.806,242.7768,Consumer
+Toby Braunhardt,South,95.968,9.5968,Consumer
+Toby Braunhardt,West,8.226,-6.0324,Consumer
+Toby Carlisle,Central,21.99,-32.985,Consumer
+Toby Carlisle,East,1944.47,342.5472,Consumer
+Toby Carlisle,South,697.764,-27.6732,Consumer
+Toby Carlisle,West,1602.588,324.4837,Consumer
+Toby Gnade,East,137.94,35.8644,Consumer
+Toby Gnade,South,4.608,1.6704,Consumer
+Toby Gnade,West,2915.824,644.6356,Consumer
+Toby Ritter,Central,278.4,80.736,Consumer
+Toby Ritter,East,249.79,76.8028,Consumer
+Toby Ritter,South,15.552,5.4432,Consumer
+Toby Ritter,West,132.2,57.3824,Consumer
+Toby Swindell,Central,1.112,-1.8904,Consumer
+Toby Swindell,East,17.608,7.2895,Consumer
+Toby Swindell,West,956.062,-190.378,Consumer
+Todd Boyes,Central,209.376,69.3876,Corporate
+Todd Boyes,East,100.102,33.3589,Corporate
+Todd Boyes,South,524.85,166.2205,Corporate
+Todd Sumrall,Central,2799.96,874.9875,Corporate
+Todd Sumrall,East,7629.21,1835.0772,Corporate
+Todd Sumrall,West,1462.581,-338.3503,Corporate
+Tom Ashbrook,Central,872.122,104.581,Home Office
+Tom Ashbrook,East,13723.498,4599.2073,Home Office
+Tom Boeckenhauer,Central,1040.19,291.9927,Consumer
+Tom Boeckenhauer,East,6999.96,2239.9872,Consumer
+Tom Boeckenhauer,South,106.448,16.2828,Consumer
+Tom Boeckenhauer,West,987.392,250.1062,Consumer
+Tom Prescott,Central,577.2808,-527.3762,Consumer
+Tom Prescott,East,4738.764,-566.364,Consumer
+Tom Prescott,West,12.96,6.3504,Consumer
+Tom Stivers,Central,30.36,13.0548,Corporate
+Tom Stivers,East,545.928,-242.7512,Corporate
+Tom Stivers,West,1477.852,278.3981,Corporate
+Tonja Turnell,Central,5301.688,1113.0275,Home Office
+Tonja Turnell,South,35.96,3.596,Home Office
+Tonja Turnell,West,27.16,7.8764,Home Office
+Tony Chapman,Central,53.352,-85.8622,Home Office
+Tony Chapman,East,110.696,-40.5144,Home Office
+Tony Chapman,South,791.24,208.9372,Home Office
+Tony Chapman,West,289.688,36.5434,Home Office
+Tony Molinari,Central,325.86,149.8956,Consumer
+Tony Molinari,East,558.81,140.0003,Consumer
+Tony Molinari,West,210.008,2.6251,Consumer
+Tony Sayre,East,744.316,-43.2398,Consumer
+Tony Sayre,South,732.312,87.4533,Consumer
+Tony Sayre,West,766.646,-32.8356,Consumer
+Tracy Blumstein,Central,149.806,-26.4814,Consumer
+Tracy Blumstein,East,4087.136,-1720.706,Consumer
+Tracy Blumstein,West,500.544,144.1423,Consumer
+Tracy Collins,East,68.852,23.692,Home Office
+Tracy Collins,South,61.96,4.3372,Home Office
+Tracy Collins,West,611.746,189.9038,Home Office
+Tracy Hopkins,Central,564.38,143.4358,Home Office
+Tracy Hopkins,East,1780.56,559.1508,Home Office
+Tracy Hopkins,South,1889.156,-1274.5544,Home Office
+Tracy Poddar,Central,133.92,5.23,Corporate
+Tracy Poddar,West,1802.72,133.9987,Corporate
+Tracy Zic,West,1707.286,224.8887,Consumer
+Troy Blackwell,Central,782.52,50.4017,Consumer
+Troy Blackwell,East,458.351,-204.9404,Consumer
+Troy Blackwell,West,146.688,18.1296,Consumer
+Troy Staebel,Central,179.428,-138.2724,Consumer
+Troy Staebel,East,1163.116,-284.7797,Consumer
+Troy Staebel,West,1477.88,128.354,Consumer
+Trudy Brown,Central,243.166,45.6414,Consumer
+Trudy Brown,East,2222.936,341.4931,Consumer
+Trudy Brown,West,331.566,-7.2525,Consumer
+Trudy Glocke,Central,248.82,84.4272,Consumer
+Trudy Glocke,South,1142.165,89.4226,Consumer
+Trudy Glocke,West,683.676,191.8707,Consumer
+Trudy Schmidt,Central,2345.114,-185.2496,Consumer
+Trudy Schmidt,South,870.04,364.8721,Consumer
+Trudy Schmidt,West,152.94,41.2938,Consumer
+Valerie Dominguez,Central,971.88,109.3365,Consumer
+Valerie Dominguez,East,2220.06,841.9446,Consumer
+Valerie Dominguez,South,1124.28,89.95,Consumer
+Valerie Dominguez,West,2126.034,576.5563,Consumer
+Valerie Mitchum,Central,2.912,0.91,Home Office
+Valerie Mitchum,East,1379.538,344.8558,Home Office
+Valerie Mitchum,South,259.29,78.2361,Home Office
+Valerie Mitchum,West,813.126,89.525,Home Office
+Valerie Takahito,Central,100.24,33.831,Home Office
+Valerie Takahito,East,1636.356,-257.9199,Home Office
+Vicky Freymann,Central,679.748,-153.2036,Home Office
+Vicky Freymann,West,168.196,56.9256,Home Office
+Victor Preis,Central,19,8.93,Home Office
+Victor Preis,East,899.11,170.879,Home Office
+Victor Preis,West,75.792,25.5798,Home Office
+Victoria Brennan,Central,574.476,114.3532,Corporate
+Victoria Brennan,East,756.8,75.68,Corporate
+Victoria Brennan,South,674.32,181.2066,Corporate
+Victoria Pisteka,Central,634.124,78.5743,Corporate
+Victoria Pisteka,East,732.256,-172.499,Corporate
+Victoria Pisteka,South,1893.786,-964.4829,Corporate
+Victoria Pisteka,West,100.36,39.6308,Corporate
+Victoria Wilson,Central,1222.47,-65.3238,Corporate
+Victoria Wilson,East,3725.512,-1078.132,Corporate
+Victoria Wilson,South,21.36,8.1168,Corporate
+Victoria Wilson,West,1164.696,260.6745,Corporate
+Vivek Gonzalez,South,155.456,-7.7728,Consumer
+Vivek Gonzalez,West,690.554,151.3996,Consumer
+Vivek Grady,Central,354.016,-72.5432,Corporate
+Vivek Grady,East,62.396,17.251,Corporate
+Vivek Grady,South,10.96,2.9592,Corporate
+Vivek Sundaresam,Central,697.465,-248.554,Consumer
+Vivek Sundaresam,South,187.228,-7.832,Consumer
+Vivek Sundaresam,West,171.288,-6.4233,Consumer
+Vivian Mathis,Central,16.28,6.512,Consumer
+Vivian Mathis,East,177.34,85.3004,Consumer
+Vivian Mathis,South,58.4,-24.316,Consumer
+Vivian Mathis,West,128.67,49.1409,Consumer
+William Brown,Central,161.184,-68.6764,Consumer
+William Brown,East,475.864,-42.2831,Consumer
+William Brown,West,5523.054,825.2906,Consumer
+Xylona Preis,Central,989.72,178.6458,Consumer
+Xylona Preis,East,201.12,86.3496,Consumer
+Xylona Preis,South,523.628,57.8932,Consumer
+Xylona Preis,West,660.19,298.3414,Consumer
+Yana Sorensen,East,465.18,120.9468,Corporate
+Yana Sorensen,South,501.092,105.751,Corporate
+Yana Sorensen,West,5754.172,1551.5945,Corporate
+Yoseph Carroll,Central,1122.184,89.8082,Corporate
+Yoseph Carroll,East,3116.49,833.7633,Corporate
+Yoseph Carroll,West,1215.676,382.0575,Corporate
+Zuschuss Carroll,Central,3869.806,-1468.579,Consumer
+Zuschuss Carroll,East,43.92,12.7368,Consumer
+Zuschuss Carroll,South,1470.892,77.599,Consumer
+Zuschuss Carroll,West,2641.089,346.0942,Consumer
+Zuschuss Donatelli,Central,331.08,146.828,Consumer
+Zuschuss Donatelli,South,856.664,59.8365,Consumer
+Zuschuss Donatelli,West,306.2,42.4662,Consumer
